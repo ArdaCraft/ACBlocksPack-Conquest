@@ -1,0 +1,11 @@
+{
+  "name": "Bordered_Cobble",
+  "sound": "STONE",
+  "textures": {
+    "normal": "bordered_cobble"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

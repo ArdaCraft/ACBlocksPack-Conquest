@@ -1,0 +1,12 @@
+{
+  "name": "Oak",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "planks_oak"
+  },
+  "blockTypes": [
+    "SLIM_SLAB",
+    "TRAP_DOOR",
+    "PLATE"
+  ]
+}

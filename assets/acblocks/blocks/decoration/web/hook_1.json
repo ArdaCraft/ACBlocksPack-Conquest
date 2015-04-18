@@ -1,0 +1,10 @@
+{
+  "name": "Hook_1",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "hook_1"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

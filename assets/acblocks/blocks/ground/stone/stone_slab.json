@@ -1,0 +1,10 @@
+{
+  "name": "Stone_Slab",
+  "sound": "STONE",
+  "textures": {
+    "normal": "stone_slab_top"
+  },
+  "blockTypes": [
+    "SLIM_SLAB"
+  ]
+}

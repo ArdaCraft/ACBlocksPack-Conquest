@@ -1,0 +1,12 @@
+{
+  "name": "Barrel_Lettuce",
+  "sound": "WOOD",
+  "textures": {
+    "top": "barrel_lettuce",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

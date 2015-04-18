@@ -1,0 +1,12 @@
+{
+  "name": "Log_Acacia_Mossy",
+  "sound": "WOOD",
+  "textures": {
+    "top": "log_acacia_mossy_top",
+    "bottom": "log_acacia_mossy_top",
+    "sides": "log_acacia_mossy_side"
+  },
+  "blockTypes": [
+    "LOG"
+  ]
+}

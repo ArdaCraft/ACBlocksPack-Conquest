@@ -1,0 +1,12 @@
+{
+  "name": "Jungle",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "planks_jungle"
+  },
+  "blockTypes": [
+    "SLIM_SLAB",
+    "TRAP_DOOR",
+    "PLATE"
+  ]
+}

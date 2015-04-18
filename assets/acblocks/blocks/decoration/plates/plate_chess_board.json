@@ -1,0 +1,10 @@
+{
+  "name": "Chess_Board",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "chess_board"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

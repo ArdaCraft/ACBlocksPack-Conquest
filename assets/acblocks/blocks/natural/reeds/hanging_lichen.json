@@ -1,0 +1,10 @@
+{
+  "name": "Hanging Lichen",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "hanging_lichen"
+  },
+  "blockTypes": [
+    "CROPS"
+  ]
+}

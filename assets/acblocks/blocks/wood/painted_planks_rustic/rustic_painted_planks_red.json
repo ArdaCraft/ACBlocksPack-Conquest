@@ -1,0 +1,17 @@
+{
+  "name": "Painted_Planks_Rustic_Red",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "painted_planks_rustic_red"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRAP_DOOR",
+    "FENCE",
+    "DOOR",
+    "WALL",
+    "FENCE_GATE",
+    "STAIRS",
+    "SLAB"
+  ]
+}

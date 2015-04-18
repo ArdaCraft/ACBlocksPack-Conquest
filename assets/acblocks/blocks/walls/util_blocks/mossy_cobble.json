@@ -1,0 +1,16 @@
+{
+  "name": "Mossy_Cobble",
+  "sound": "STONE",
+  "textures": {
+    "normal": "mossy_cobble"
+  },
+  "blockTypes": [
+    "CARPET",
+    "ANVIL",
+    "FENCE_GATE",
+    "DOOR",
+    "FENCE",
+    "WALL",
+    "SLIM_SLAB"
+  ]
+}

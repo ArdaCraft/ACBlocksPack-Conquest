@@ -1,0 +1,12 @@
+{
+  "name": "Hanging_Cloth",
+  "sound": "STONE",
+  "textures": {
+    "normal": "hanging_cloth",
+    "top": "invisible",
+    "bottom": "invisible"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

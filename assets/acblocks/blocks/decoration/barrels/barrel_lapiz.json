@@ -1,0 +1,12 @@
+{
+  "name": "Barrel_Lapiz",
+  "sound": "WOOD",
+  "textures": {
+    "top": "barrel_lapiz",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

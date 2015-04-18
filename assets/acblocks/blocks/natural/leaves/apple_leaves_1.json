@@ -1,0 +1,10 @@
+{
+  "name": "Apple_Leaves_1",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "leaves_apple_1"
+  },
+  "blockTypes": [
+    "STAINED_GLASS"
+  ]
+}

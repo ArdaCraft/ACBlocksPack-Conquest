@@ -1,0 +1,10 @@
+{
+  "name": "Light_Slotted_0",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "trapdoor_light_slotted_0"
+  },
+  "blockTypes": [
+    "TRAP_DOOR"
+  ]
+}

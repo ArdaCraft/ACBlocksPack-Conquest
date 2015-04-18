@@ -1,0 +1,11 @@
+{
+  "name": "Dirt_Path",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "dirt_path"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

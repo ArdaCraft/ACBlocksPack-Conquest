@@ -1,0 +1,11 @@
+{
+  "name": "Hot_Coals",
+  "sound": "STONE",
+  "textures": {
+    "normal": "coals"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

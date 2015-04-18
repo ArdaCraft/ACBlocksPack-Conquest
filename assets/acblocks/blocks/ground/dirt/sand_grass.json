@@ -1,0 +1,11 @@
+{
+  "name": "sand_grass",
+  "sound": "SAND",
+  "textures": {
+    "normal": "sand_grass"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

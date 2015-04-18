@@ -1,0 +1,11 @@
+{
+  "name": "Thatch_Black",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "thatch_black"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

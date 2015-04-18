@@ -1,0 +1,12 @@
+{
+  "name": "Jungle",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "door_jungle_lower",
+    "top": "door_jungle_upper",
+    "bottom": "door_jungle_lower"
+  },
+  "blockTypes": [
+    "DOOR"
+  ]
+}

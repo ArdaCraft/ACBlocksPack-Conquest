@@ -1,0 +1,10 @@
+{
+  "name": "Net",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "net"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

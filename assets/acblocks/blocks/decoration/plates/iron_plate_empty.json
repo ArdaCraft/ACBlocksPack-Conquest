@@ -1,0 +1,10 @@
+{
+  "name": "Empty_Iron_Plate",
+  "sound": "STONE",
+  "textures": {
+    "normal": "plate_iron_empty"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

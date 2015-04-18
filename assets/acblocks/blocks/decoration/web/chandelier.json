@@ -1,0 +1,10 @@
+{
+  "name": "Chandelier",
+  "sound": "STONE",
+  "textures": {
+    "normal": "chandelier"
+  },
+  "blockTypes": [
+    "LIGHT_WEB"
+  ]
+}

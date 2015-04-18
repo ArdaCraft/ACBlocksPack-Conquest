@@ -1,0 +1,11 @@
+{
+  "name": "Coal_Bin",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "coal_bin_side",
+    "top": "coal_bin_top"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Cobble",
+  "sound": "STONE",
+  "textures": {
+    "normal": "cobble"
+  },
+  "blockTypes": [
+    "CARPET",
+    "ANVIL",
+    "FENCE_GATE",
+    "DOOR",
+    "FENCE",
+    "WALL",
+    "SLIM_SLAB"
+  ]
+}

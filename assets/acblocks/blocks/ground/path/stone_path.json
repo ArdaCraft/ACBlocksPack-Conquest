@@ -1,0 +1,11 @@
+{
+  "name": "Stone_Path",
+  "sound": "GRAVEL",
+  "textures": {
+    "normal": "stone_path"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

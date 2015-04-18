@@ -1,0 +1,10 @@
+{
+  "name": "Weapons_Rack",
+  "sound": "STONE",
+  "textures": {
+    "normal": "weapons_rack"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

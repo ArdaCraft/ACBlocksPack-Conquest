@@ -1,0 +1,11 @@
+{
+  "name": "Gravel_Path",
+  "sound": "GRAVEL",
+  "textures": {
+    "normal": "gravel_path"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

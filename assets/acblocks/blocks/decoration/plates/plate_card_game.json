@@ -1,0 +1,10 @@
+{
+  "name": "Card_Game",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "card_game"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

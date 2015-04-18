@@ -1,0 +1,12 @@
+{
+  "name": "Bottle_Cabinet",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "cabinet_side",
+    "top": "cabinet_top",
+    "bottom": "cabinet_bottles"
+  },
+  "blockTypes": [
+    "FURNACE"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Barrel_Rocks",
+  "sound": "WOOD",
+  "textures": {
+    "top": "barrel_rocks",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

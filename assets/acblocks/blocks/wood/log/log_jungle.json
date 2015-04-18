@@ -1,0 +1,12 @@
+{
+  "name": "Log_Jungle",
+  "sound": "WOOD",
+  "textures": {
+    "top": "log_jungle_end",
+    "bottom": "log_jungle_end",
+    "sides": "log_jungle_side"
+  },
+  "blockTypes": [
+    "LOG"
+  ]
+}

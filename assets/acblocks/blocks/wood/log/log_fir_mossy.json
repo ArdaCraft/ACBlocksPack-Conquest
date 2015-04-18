@@ -1,0 +1,12 @@
+{
+  "name": "Log_Fir_Mossy",
+  "sound": "WOOD",
+  "textures": {
+    "top": "log_fir_mossy_top",
+    "bottom": "log_fir_mossy_top",
+    "sides": "log_fir_mossy_side"
+  },
+  "blockTypes": [
+    "LOG"
+  ]
+}

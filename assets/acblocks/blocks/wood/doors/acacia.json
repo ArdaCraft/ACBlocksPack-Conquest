@@ -1,0 +1,12 @@
+{
+  "name": "Acacia",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "door_acacia_lower",
+    "top": "door_acacia_upper",
+    "bottom": "door_acacia_lower"
+  },
+  "blockTypes": [
+    "DOOR"
+  ]
+}

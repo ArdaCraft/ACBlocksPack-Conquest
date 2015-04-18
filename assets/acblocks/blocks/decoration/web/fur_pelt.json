@@ -1,0 +1,10 @@
+{
+  "name": "Fur_Pelt",
+  "sound": "STONE",
+  "textures": {
+    "normal": "fur_pelt"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

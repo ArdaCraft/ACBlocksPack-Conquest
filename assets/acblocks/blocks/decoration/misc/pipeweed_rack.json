@@ -1,0 +1,12 @@
+{
+  "name": "Pipeweed_Rack",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "pipeweed_rack",
+	"top": "invisible",
+    "bottom": "invisible"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

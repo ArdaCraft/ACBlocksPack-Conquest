@@ -1,0 +1,10 @@
+{
+  "name": "Hanging_Bag_1",
+  "sound": "STONE",
+  "textures": {
+    "normal": "hanging_bag_1"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

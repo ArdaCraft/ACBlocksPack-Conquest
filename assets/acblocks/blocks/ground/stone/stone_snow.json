@@ -1,0 +1,13 @@
+{
+  "name": "stone_snow",
+  "sound": "STONE",
+  "textures": {
+    "top": "stone_snow_top",
+    "bottom": "stone_snow",
+    "sides": "stone_snow_side"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

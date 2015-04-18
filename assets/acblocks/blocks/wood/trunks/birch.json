@@ -1,0 +1,11 @@
+{
+  "name": "Birch",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "log_birch"
+  },
+  "blockTypes": [
+    "TRUNK",
+    "FENCE"
+  ]
+}

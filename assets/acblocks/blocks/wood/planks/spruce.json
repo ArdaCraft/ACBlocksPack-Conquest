@@ -1,0 +1,12 @@
+{
+  "name": "Spruce",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "planks_spruce"
+  },
+  "blockTypes": [
+    "SLIM_SLAB",
+    "TRAP_DOOR",
+    "PLATE"
+  ]
+}

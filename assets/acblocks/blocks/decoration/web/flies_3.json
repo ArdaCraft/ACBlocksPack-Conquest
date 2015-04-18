@@ -1,0 +1,10 @@
+{
+  "name": "Flies_3",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "flies_3"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

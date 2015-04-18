@@ -1,0 +1,10 @@
+{
+  "name": "Rope_Knotted",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "rope_knotted"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

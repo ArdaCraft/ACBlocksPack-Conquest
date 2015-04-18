@@ -1,0 +1,12 @@
+{
+  "name": "Acacia",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "planks_acacia"
+  },
+  "blockTypes": [
+    "SLIM_SLAB",
+    "TRAP_DOOR",
+    "PLATE"
+  ]
+}

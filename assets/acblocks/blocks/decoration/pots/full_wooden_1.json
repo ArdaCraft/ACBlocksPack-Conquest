@@ -1,0 +1,10 @@
+{
+  "name": "Full_Wooden_1",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "pot_full_wooden_1"
+  },
+  "blockTypes": [
+    "POT"
+  ]
+}

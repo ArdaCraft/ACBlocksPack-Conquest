@@ -1,0 +1,15 @@
+{
+  "name": "Mossy_Brick",
+  "sound": "STONE",
+  "textures": {
+    "normal": "brick_mossy"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "ANVIL",
+    "WALL",
+    "SLIM_SLAB"
+  ]
+}

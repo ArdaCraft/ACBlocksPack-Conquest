@@ -1,0 +1,10 @@
+{
+  "name": "Wood_Wheel",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "wood_wheel"
+  },
+  "blockTypes": [
+    "TRAP_DOOR"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hanging_Fish_2",
+  "sound": "STONE",
+  "textures": {
+    "normal": "hanging_fish_2"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

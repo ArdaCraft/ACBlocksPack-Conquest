@@ -1,0 +1,12 @@
+{
+  "name": "Log_Burned_Ash",
+  "sound": "WOOD",
+  "textures": {
+    "top": "burned_ash_log_top",
+    "bottom": "burned_ash_log_top",
+    "sides": "burned_ash_log"
+  },
+  "blockTypes": [
+    "LOG"
+  ]
+}

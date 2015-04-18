@@ -1,0 +1,12 @@
+{
+  "name": "Birch_Plank",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "birch_planks"
+  },
+  "blockTypes": [
+    "WALL",
+    "FENCE_GATE",
+    "FENCE"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Quartz",
+  "sound": "STONE",
+  "textures": {
+    "normal": "quartz"
+  },
+  "blockTypes": [
+    "CARPET",
+    "ANVIL",
+    "FENCE_GATE",
+    "DOOR",
+    "FENCE",
+    "WALL",
+    "SLIM_SLAB"
+  ]
+}

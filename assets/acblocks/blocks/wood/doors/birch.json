@@ -1,0 +1,12 @@
+{
+  "name": "Birch",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "door_birch_lower",
+    "top": "door_birch_upper",
+    "bottom": "door_birch_lower"
+  },
+  "blockTypes": [
+    "DOOR"
+  ]
+}

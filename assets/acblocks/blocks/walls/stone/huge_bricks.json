@@ -1,0 +1,10 @@
+{
+  "name": "Huge_Bricks",
+  "sound": "STONE",
+  "textures": {
+    "normal": "huge_brick"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Barrel_Ruby",
+  "sound": "WOOD",
+  "textures": {
+    "top": "barrel_ruby",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

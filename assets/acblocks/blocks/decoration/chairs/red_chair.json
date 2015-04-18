@@ -1,0 +1,13 @@
+{
+  "name": "Stool",
+  "sound": "WOOD",
+  "textures": {
+    "top": "stool_top",
+    "bottom": "invisible",
+    "sides": "stool_side"
+  },
+  "blockTypes": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Wood_0",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "door_wood_0_lower",
+    "top": "door_wood_0_upper",
+    "bottom": "door_wood_0_lower"
+  },
+  "blockTypes": [
+    "DOOR"
+  ]
+}

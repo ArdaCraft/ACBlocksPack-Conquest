@@ -1,0 +1,11 @@
+{
+  "name": "dirt_bones",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "dirt_bones"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

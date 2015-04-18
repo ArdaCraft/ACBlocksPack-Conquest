@@ -1,0 +1,10 @@
+{
+  "name": "Smoke_Black",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "smoke_black"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

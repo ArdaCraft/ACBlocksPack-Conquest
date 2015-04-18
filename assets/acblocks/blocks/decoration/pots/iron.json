@@ -1,0 +1,10 @@
+{
+  "name": "Iron",
+  "sound": "STONE",
+  "textures": {
+    "normal": "pot_iron"
+  },
+  "blockTypes": [
+    "POT"
+  ]
+}

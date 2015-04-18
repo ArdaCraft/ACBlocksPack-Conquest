@@ -1,0 +1,12 @@
+{
+  "name": "Slate_Grey",
+  "sound": "STONE",
+  "textures": {
+    "normal": "slate_grey"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS"
+  ]
+}

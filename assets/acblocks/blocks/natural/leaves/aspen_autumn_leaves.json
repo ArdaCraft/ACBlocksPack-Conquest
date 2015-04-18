@@ -1,0 +1,10 @@
+{
+  "name": "Aspen_Autumn_Leaves",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "leaves_aspen_brown"
+  },
+  "blockTypes": [
+    "STAINED_GLASS"
+  ]
+}

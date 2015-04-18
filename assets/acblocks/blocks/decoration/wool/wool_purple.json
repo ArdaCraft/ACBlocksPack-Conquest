@@ -1,0 +1,10 @@
+{
+  "name": "Wool_Purple",
+  "sound": "WOOL",
+  "textures": {
+    "normal": "wool_purple"
+  },
+  "blockTypes": [
+    "SLAB"
+  ]
+}

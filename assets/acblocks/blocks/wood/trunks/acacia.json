@@ -1,0 +1,11 @@
+{
+  "name": "Acacia",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "log_acacia"
+  },
+  "blockTypes": [
+    "TRUNK",
+    "FENCE"
+  ]
+}

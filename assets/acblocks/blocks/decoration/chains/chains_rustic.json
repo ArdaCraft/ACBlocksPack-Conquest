@@ -1,0 +1,10 @@
+{
+  "name": "Chains_Rustic",
+  "sound": "STONE",
+  "textures": {
+    "normal": "chains_rustic"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

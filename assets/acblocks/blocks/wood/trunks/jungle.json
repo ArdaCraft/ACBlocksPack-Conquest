@@ -1,0 +1,11 @@
+{
+  "name": "Jungle",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "log_jungle"
+  },
+  "blockTypes": [
+    "TRUNK",
+    "FENCE"
+  ]
+}

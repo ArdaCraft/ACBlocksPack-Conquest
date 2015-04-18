@@ -1,0 +1,10 @@
+{
+  "name": "Flower_Allium",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "flower_allium"
+  },
+  "blockTypes": [
+    "PLANT"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Shelves",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "shelves",
+    "top": "shelves_top",
+    "bottom": "shelves_top"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

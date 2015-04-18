@@ -1,0 +1,12 @@
+{
+  "name": "Mycelium",
+  "sound": "DIRT",
+  "textures": {
+    "top": "mycelium_top",
+    "bottom": "dirt",
+    "sides": "mycelium_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

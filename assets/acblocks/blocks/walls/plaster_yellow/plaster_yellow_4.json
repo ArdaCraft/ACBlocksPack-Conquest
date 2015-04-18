@@ -1,0 +1,11 @@
+{
+  "name": "Plaster_Yellow_4",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "plaster_yellow_4"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

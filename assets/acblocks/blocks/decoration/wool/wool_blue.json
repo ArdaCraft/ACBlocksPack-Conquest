@@ -1,0 +1,10 @@
+{
+  "name": "Wool_Blue",
+  "sound": "WOOL",
+  "textures": {
+    "normal": "wool_blue"
+  },
+  "blockTypes": [
+    "SLAB"
+  ]
+}

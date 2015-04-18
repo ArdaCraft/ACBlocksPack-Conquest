@@ -1,0 +1,12 @@
+{
+  "name": "Wicker_Basket_Dark",
+  "sound": "WOOD",
+  "textures": {
+    "top": "wicker_dark_top",
+    "bottom": "wicker_dark_bottom",
+    "sides": "wicker_dark_side"
+  },
+  "blockTypes": [
+    "CAULDRON"
+  ]
+}
