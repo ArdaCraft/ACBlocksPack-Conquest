@@ -1,0 +1,10 @@
+{
+  "name": "Narthecium Ossifragum",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "narthecium_ossifragum"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Barrel_Wine",
+  "sound": "WOOD",
+  "textures": {
+    "top": "wine_barrel_top",
+    "bottom": "barrel_bottom",
+    "sides": "wine_barrel_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

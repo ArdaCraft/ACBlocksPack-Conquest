@@ -1,0 +1,10 @@
+{
+  "name": "Tussock_Grass",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "tussock_grass_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

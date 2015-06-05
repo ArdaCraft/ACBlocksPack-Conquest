@@ -1,0 +1,11 @@
+{
+  "name": "Fodder",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "fodder"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

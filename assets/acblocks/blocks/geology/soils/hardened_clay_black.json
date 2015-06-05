@@ -1,0 +1,10 @@
+{
+  "name": "Hardened_Clay_Black",
+  "sound": "STONE",
+  "textures": {
+    "normal": "hardened_clay_black"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

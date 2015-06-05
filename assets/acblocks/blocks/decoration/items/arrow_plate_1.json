@@ -1,0 +1,10 @@
+{
+  "name": "Arrow_Plate",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "arrow_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

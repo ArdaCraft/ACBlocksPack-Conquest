@@ -1,0 +1,10 @@
+{
+  "name": "Eriophorum",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "eriophorum"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

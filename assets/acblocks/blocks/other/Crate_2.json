@@ -1,0 +1,10 @@
+{
+  "name": "Crate_2",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "crate_4"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

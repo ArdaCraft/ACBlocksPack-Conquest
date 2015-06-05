@@ -1,0 +1,10 @@
+{
+  "name": "Pick_Plate",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "pick_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

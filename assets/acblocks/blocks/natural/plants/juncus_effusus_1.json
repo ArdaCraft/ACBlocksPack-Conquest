@@ -1,0 +1,10 @@
+{
+  "name": "Juncus_Effusus_1",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "juncus_effusus_1"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Iron_fence_rust",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "ironfence_rust",
+    "top": "wicker_fence_top"
+  },
+  "blockTypes": [
+    "PANE"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bree_Purple",
+  "sound": "STONE",
+  "textures": {
+    "normal": "bree_purple"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

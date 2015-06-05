@@ -1,0 +1,10 @@
+{
+  "name": "Shovel_Plate",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "shovel_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

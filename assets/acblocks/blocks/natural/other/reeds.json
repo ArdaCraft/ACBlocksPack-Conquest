@@ -1,0 +1,10 @@
+{
+  "name": "reeds",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "reeds"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sickle_Plate_2",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "sickle_2_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

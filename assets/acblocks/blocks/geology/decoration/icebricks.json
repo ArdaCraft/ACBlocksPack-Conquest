@@ -1,0 +1,10 @@
+{
+  "name": "Ice_Bricks",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "icebricks"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

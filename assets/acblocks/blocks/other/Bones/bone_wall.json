@@ -1,0 +1,10 @@
+{
+  "name": "Bone Wall",
+  "sound": "STONE",
+  "textures": {
+    "normal": "bone_wall"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

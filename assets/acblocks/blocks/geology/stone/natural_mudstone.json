@@ -1,0 +1,11 @@
+{
+  "name": "Mudstone",
+  "sound": "STONE",
+  "textures": {
+    "normal": "nat_mudstone"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

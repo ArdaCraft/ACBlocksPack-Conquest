@@ -1,0 +1,10 @@
+{
+  "name": "Cow_Pie",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "cow_patty_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sandstone_Brick_Wall",
+  "sound": "STONE",
+  "textures": {
+    "normal": "sandstone_brick"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

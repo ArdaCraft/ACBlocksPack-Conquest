@@ -1,0 +1,10 @@
+{
+  "name": "Stalactite",
+  "sound": "STONE",
+  "textures": {
+    "normal": "stalactite"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

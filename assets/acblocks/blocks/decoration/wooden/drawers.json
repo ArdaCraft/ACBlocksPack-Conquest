@@ -1,0 +1,12 @@
+{
+  "name": "Drawers",
+  "sound": "WOOD",
+  "textures": {
+    "top": "drawers_top",
+    "bottom": "drawers_top",
+    "sides": "drawers_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

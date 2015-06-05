@@ -1,0 +1,11 @@
+{
+  "name": "Planks_Nondescript",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "planks_nondescript"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Noose_2",
+  "sound": "STONE",
+  "textures": {
+    "normal": "noose_2"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

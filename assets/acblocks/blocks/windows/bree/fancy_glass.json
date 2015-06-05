@@ -1,0 +1,10 @@
+{
+  "name": "Fancy Glass",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "fancy_glass"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

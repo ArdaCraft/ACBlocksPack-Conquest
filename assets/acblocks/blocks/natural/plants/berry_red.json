@@ -1,0 +1,10 @@
+{
+  "name": "Berry_Red",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "berry_red"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

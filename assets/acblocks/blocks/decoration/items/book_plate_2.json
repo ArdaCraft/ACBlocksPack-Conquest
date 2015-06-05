@@ -1,0 +1,10 @@
+{
+  "name": "Book_Plate_2",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "book_2_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

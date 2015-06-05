@@ -1,0 +1,11 @@
+{
+  "name": "Daub_Timber_Box",
+  "sound": "STONE",
+  "textures": {
+    "normal": "daubtimber_box"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

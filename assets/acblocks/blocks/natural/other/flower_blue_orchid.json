@@ -1,0 +1,10 @@
+{
+  "name": "Flower_Blue_Orchid",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "flower_blue_orchid"
+  },
+  "blockTypes": [
+    "PLANT"
+  ]
+}

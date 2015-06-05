@@ -1,0 +1,10 @@
+{
+  "name": "Icicles",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "icicle"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

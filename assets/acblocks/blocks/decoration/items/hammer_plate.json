@@ -1,0 +1,10 @@
+{
+  "name": "Hammer_Plate",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "hammer_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

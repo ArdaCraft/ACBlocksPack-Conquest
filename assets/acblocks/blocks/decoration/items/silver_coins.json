@@ -1,0 +1,10 @@
+{
+  "name": "Silver_Coins",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "silver_coins"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

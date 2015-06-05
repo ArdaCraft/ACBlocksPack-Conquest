@@ -1,0 +1,12 @@
+{
+  "name": "Arrow_Slit",
+  "sound": "STONE",
+  "textures": {
+    "normal": "arrow_slit",
+    "top": "invisible",
+    "bottom": "invisible"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

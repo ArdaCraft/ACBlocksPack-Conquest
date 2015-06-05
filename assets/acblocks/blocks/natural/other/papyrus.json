@@ -1,0 +1,10 @@
+{
+  "name": "Papyrus",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "papyrus_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Pipeweed",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "pipeweed"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

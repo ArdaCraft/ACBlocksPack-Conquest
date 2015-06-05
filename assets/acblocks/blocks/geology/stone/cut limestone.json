@@ -1,0 +1,12 @@
+{
+  "name": "Cut_Limestone",
+  "sound": "STONE",
+  "textures": {
+    "normal": "cut_limestone"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLIM_SLAB",
+    "SLAB"
+  ]
+}

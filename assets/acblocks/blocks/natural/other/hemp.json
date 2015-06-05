@@ -1,0 +1,10 @@
+{
+  "name": "hemp",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "hemp"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

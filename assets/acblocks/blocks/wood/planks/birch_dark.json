@@ -1,0 +1,11 @@
+{
+  "name": "Birch_Dark_Planks",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "birch_planks_dark"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Athelas",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "athelas"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

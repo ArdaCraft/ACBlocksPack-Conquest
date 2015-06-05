@@ -1,0 +1,10 @@
+{
+  "name": "Erica Tetralix",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "erica_tetralix"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

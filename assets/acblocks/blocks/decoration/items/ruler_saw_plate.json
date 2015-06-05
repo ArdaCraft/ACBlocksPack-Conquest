@@ -1,0 +1,10 @@
+{
+  "name": "Ruler_Saw_Plate",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "ruler_saw_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

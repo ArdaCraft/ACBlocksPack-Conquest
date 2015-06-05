@@ -1,0 +1,10 @@
+{
+  "name": "White_Border_Glass",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "white_border_glass"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

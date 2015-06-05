@@ -1,0 +1,10 @@
+{
+  "name": "Peas",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "pea_crops"
+  },
+  "blockTypes": [
+    "CROPS"
+  ]
+}

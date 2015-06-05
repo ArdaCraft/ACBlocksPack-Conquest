@@ -1,0 +1,10 @@
+{
+  "name": "Gold Chain",
+  "sound": "STONE",
+  "textures": {
+    "normal": "gold_chain"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Clay_Timber_1",
+  "sound": "STONE",
+  "textures": {
+    "normal": "claytimber_1"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}
