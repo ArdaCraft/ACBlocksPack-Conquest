@@ -1,0 +1,10 @@
+{
+  "name": "Bluebird",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "bluebird"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

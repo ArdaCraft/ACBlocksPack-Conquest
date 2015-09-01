@@ -1,0 +1,10 @@
+{
+  "name": "Netting",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "netting_ghost_pane"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

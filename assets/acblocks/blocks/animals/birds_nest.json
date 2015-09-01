@@ -1,0 +1,10 @@
+{
+  "name": "Birds_Nest",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "birds_nest"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

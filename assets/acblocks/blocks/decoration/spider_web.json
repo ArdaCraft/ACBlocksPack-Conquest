@@ -1,0 +1,10 @@
+{
+  "name": "Spider Web",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "spider_web"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Granite_Rock",
+  "sound": "STONE",
+  "textures": {
+    "normal": "granite_rock"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bound_Wood_Trapdoor",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "bound_wood_trapdoor"
+  },
+  "blockTypes": [
+    "TRAP_DOOR"
+  ]
+}

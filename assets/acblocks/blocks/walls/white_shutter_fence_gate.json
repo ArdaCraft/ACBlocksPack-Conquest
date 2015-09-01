@@ -1,0 +1,10 @@
+{
+  "name": "White_Shutter_Fence_Gate",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "white_shutter_fence_gate"
+  },
+  "blockTypes": [
+    "FENCE_GATE"
+  ]
+}

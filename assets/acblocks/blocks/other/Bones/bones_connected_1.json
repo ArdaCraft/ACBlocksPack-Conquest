@@ -1,0 +1,11 @@
+{
+  "name": "Bones_Connected1",
+  "sound": "STONE",
+  "textures": {
+    "normal": "bones_connected1"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

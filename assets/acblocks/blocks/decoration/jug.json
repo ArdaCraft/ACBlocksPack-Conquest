@@ -1,0 +1,10 @@
+{
+  "name": "Jug",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "jug_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

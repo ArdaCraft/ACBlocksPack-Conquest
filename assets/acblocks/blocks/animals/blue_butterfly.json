@@ -1,0 +1,10 @@
+{
+  "name": "Blue_Butterfly",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "blue_butterfly"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

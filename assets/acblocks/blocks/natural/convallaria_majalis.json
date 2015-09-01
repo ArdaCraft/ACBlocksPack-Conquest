@@ -1,0 +1,10 @@
+{
+  "name": "Convallaria Majalis",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "convallaria_majalis"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Red_Curtain",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "red_curtain"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

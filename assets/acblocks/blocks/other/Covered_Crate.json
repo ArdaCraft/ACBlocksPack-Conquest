@@ -1,0 +1,12 @@
+{
+  "name": "Covered_Crate",
+  "sound": "WOOD",
+  "textures": {
+    "top": "covered_crate_top",
+    "bottom": "covered_crate_top",
+    "sides": "covered_crate_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

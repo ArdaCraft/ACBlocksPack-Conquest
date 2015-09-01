@@ -1,0 +1,11 @@
+{
+  "name": "Thin_Ice",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "thin_ice"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

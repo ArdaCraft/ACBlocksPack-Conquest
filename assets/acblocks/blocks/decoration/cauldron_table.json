@@ -1,0 +1,12 @@
+{
+  "name": "Cauldron_Table",
+  "sound": "STONE",
+  "textures": {
+    "top": "cauldron_table_top",
+    "bottom": "cauldron_table_bottom",
+    "sides": "cauldron_table_side"
+  },
+  "blockTypes": [
+    "CAULDRON"
+  ]
+}

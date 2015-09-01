@@ -1,0 +1,10 @@
+{
+  "name": "Bookshelves Ghost Pane",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "bookshelves_ghost_pane"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

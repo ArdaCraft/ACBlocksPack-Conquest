@@ -1,0 +1,10 @@
+{
+  "name": "Bulges",
+  "sound": "STONE",
+  "textures": {
+    "normal": "bulges_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

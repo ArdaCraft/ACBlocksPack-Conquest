@@ -1,0 +1,10 @@
+{
+  "name": "Goblet",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "goblet_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

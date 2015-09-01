@@ -1,0 +1,11 @@
+{
+  "name": "Aged Planks",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "aged_planks"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Green_Flags",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "green_flags"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

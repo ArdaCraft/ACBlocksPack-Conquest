@@ -1,0 +1,11 @@
+{
+  "name": "Roped Wood",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "roped_wood"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

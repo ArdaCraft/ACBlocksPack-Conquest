@@ -1,0 +1,10 @@
+{
+  "name": "Brown_Bottle",
+  "sound": "STONE",
+  "textures": {
+    "normal": "brown_bottle_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

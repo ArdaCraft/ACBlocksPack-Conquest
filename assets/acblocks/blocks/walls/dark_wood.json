@@ -1,0 +1,11 @@
+{
+  "name": "Dark_Wood",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "dark_wood"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

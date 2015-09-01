@@ -1,0 +1,12 @@
+{
+  "name": "Beaver_Log",
+  "sound": "WOOD",
+  "textures": {
+    "top": "log_beaver_top",
+    "bottom": "log_beaver_top",
+    "sides": "log_beaver_side"
+  },
+  "blockTypes": [
+    "LOG"
+  ]
+}

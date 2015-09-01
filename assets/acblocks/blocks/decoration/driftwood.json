@@ -1,0 +1,11 @@
+{
+  "name": "Driftwood",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "driftwood"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB"
+  ]
+}

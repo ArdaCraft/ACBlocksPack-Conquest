@@ -1,0 +1,10 @@
+{
+  "name": "Hanging_Boar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "hanging_boar"
+  },
+  "blockTypes": [
+    "PANE"
+  ]
+}

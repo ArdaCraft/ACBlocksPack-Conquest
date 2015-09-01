@@ -1,0 +1,10 @@
+{
+  "name": "Moss 2",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "moss2_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

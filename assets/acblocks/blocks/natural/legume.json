@@ -1,0 +1,10 @@
+{
+  "name": "Legume",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "legume_plant"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

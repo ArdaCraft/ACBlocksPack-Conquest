@@ -1,0 +1,10 @@
+{
+  "name": "Lamp",
+  "sound": "STONE",
+  "textures": {
+    "normal": "lamp"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

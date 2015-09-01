@@ -1,0 +1,10 @@
+{
+  "name": "Thyme",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "thyme_plant"
+  },
+  "blockTypes": [
+    "PLANT"
+  ]
+}

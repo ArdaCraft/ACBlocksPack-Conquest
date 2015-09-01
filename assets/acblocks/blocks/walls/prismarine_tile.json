@@ -1,0 +1,12 @@
+{
+  "name": "Prismarine_Tiles",
+  "sound": "STONE",
+  "textures": {
+    "normal": "prismarine_tiles"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK",
+	"STAIRS"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Gold_Coins_Pile",
+  "sound": "STONE",
+  "textures": {
+    "normal": "goldcoins_pile"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB"
+  ]
+}

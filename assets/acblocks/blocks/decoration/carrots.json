@@ -1,0 +1,10 @@
+{
+  "name": "Carrots_Hanging",
+  "sound": "STONE",
+  "textures": {
+    "normal": "carrots_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

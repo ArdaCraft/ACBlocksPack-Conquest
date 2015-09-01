@@ -1,0 +1,10 @@
+{
+  "name": "Extinguished_Candle",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "extinguished_candle"
+  },
+  "blockTypes": [
+    "CROPS"
+  ]
+}

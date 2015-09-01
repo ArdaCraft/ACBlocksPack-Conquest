@@ -1,0 +1,10 @@
+{
+  "name": "Centaurea Nigra",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "centaurea_nigra"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

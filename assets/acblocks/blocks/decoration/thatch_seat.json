@@ -1,0 +1,13 @@
+{
+  "name": "Thatch_Seat",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "planks_oak",
+    "top": "thatch_seat_top",
+    "sides": "thatch_seat_side"
+  },
+  "blockTypes": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ]
+}

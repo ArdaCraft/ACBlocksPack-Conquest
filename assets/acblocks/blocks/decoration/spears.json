@@ -1,0 +1,10 @@
+{
+  "name": "Spears",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "spear_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

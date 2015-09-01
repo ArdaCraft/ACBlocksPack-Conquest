@@ -1,0 +1,10 @@
+{
+  "name": "Euphorbia Esula",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "euphorbia_esula"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Stone_Carvings",
+  "sound": "STONE",
+  "textures": {
+    "normal": "stone_carvings"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Stone_Trapdoor",
+  "sound": "STONE",
+  "textures": {
+    "normal": "stone_trapdoor"
+  },
+  "blockTypes": [
+    "TRAP_DOOR"
+  ]
+}

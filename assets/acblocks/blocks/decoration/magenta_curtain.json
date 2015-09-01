@@ -1,0 +1,10 @@
+{
+  "name": "Magenta_Curtain",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "magenta_curtain"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

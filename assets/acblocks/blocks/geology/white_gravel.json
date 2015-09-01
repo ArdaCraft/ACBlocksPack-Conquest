@@ -1,0 +1,13 @@
+{
+  "name": "White_Gravel",
+  "sound": "STONE",
+  "textures": {
+    "top": "white_gravel",
+    "bottom": "white_gravel",
+    "sides": "white_gravel"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

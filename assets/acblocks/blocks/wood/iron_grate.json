@@ -1,0 +1,10 @@
+{
+  "name": "Iron_Grate",
+  "sound": "STONE",
+  "textures": {
+    "normal": "iron_grate_trapdoor"
+  },
+  "blockTypes": [
+    "TRAP_DOOR"
+  ]
+}

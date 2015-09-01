@@ -1,0 +1,10 @@
+{
+  "name": "Cow Parsely",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "cow_parsely"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Brown_Curtain",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "brown_curtain"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

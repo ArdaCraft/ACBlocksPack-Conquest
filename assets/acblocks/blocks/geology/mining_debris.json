@@ -1,0 +1,11 @@
+{
+  "name": "Mining_Debris",
+  "sound": "STONE",
+  "textures": {
+    "normal": "mining_debris"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

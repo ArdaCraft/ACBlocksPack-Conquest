@@ -1,0 +1,10 @@
+{
+  "name": "Hanging Ivy",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "hanging_ivy_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

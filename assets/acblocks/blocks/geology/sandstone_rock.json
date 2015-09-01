@@ -1,0 +1,10 @@
+{
+  "name": "Sandstone_Rock",
+  "sound": "STONE",
+  "textures": {
+    "normal": "sandstone_rock"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hornfels",
+  "sound": "STONE",
+  "textures": {
+    "top": "smooth_black_stone",
+    "bottom": "smooth_black_stone",
+    "sides": "smooth_black_stone"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

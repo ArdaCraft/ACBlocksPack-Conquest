@@ -1,0 +1,13 @@
+{
+  "name": "Dark_Seat",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "planks_oak",
+    "top": "dark_seat_top",
+    "sides": "dark_seat_side"
+  },
+  "blockTypes": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ]
+}

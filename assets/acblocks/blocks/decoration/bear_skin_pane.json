@@ -1,0 +1,10 @@
+{
+  "name": "Bear_Skin_Pane",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "bear_skin_pane"
+  },
+  "blockTypes": [
+    "PANE"
+  ]
+}

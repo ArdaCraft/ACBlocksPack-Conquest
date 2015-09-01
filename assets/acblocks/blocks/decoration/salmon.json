@@ -1,0 +1,10 @@
+{
+  "name": "Salmon",
+  "sound": "STONE",
+  "textures": {
+    "normal": "salmon_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

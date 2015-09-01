@@ -1,0 +1,10 @@
+{
+  "name": "Broken_Bottle",
+  "sound": "STONE",
+  "textures": {
+    "normal": "broken_bottle_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

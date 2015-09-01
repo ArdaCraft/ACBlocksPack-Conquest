@@ -1,0 +1,10 @@
+{
+  "name": "Scale",
+  "sound": "STONE",
+  "textures": {
+    "normal": "scale_pane"
+  },
+  "blockTypes": [
+    "GHOST_PANE"
+  ]
+}

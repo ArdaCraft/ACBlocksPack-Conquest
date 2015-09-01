@@ -1,0 +1,10 @@
+{
+  "name": "Elixir",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "elixir_web"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}
