@@ -1,0 +1,11 @@
+{
+  "name": "Ravenclaw_Tiles",
+  "sound": "STONE",
+  "textures": {
+    "normal": "ravenclaw_tiles"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB"
+  ]
+}

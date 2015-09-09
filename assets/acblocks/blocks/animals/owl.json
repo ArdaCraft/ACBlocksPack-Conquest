@@ -1,0 +1,10 @@
+{
+  "name": "Owl",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "owl"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

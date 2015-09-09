@@ -1,0 +1,11 @@
+{
+  "name": "Gryffindor_Tiles",
+  "sound": "STONE",
+  "textures": {
+    "normal": "gryffindor_tiles"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB"
+  ]
+}

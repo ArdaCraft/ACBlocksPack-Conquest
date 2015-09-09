@@ -1,8 +1,8 @@
 {
-  "name": "Huge_Bricks",
+  "name": "Sandstone_Huge_Bricks",
   "sound": "STONE",
   "textures": {
-    "normal": "huge_brick"
+    "normal": "sandstone_huge_brick"
   },
   "blockTypes": [
     "STAIRS",

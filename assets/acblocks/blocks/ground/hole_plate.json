@@ -1,0 +1,10 @@
+{
+  "name": "Hole",
+  "sound": "STONE",
+  "textures": {
+    "normal": "hole_plate"
+  },
+  "blockTypes": [
+    "PLATE"
+  ]
+}

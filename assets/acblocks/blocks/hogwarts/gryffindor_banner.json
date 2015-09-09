@@ -1,0 +1,14 @@
+{
+  "name": "Gryffindor Banner",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "gryffindor_banner"
+  },
+  "blockTypes": [
+    "TRAP_DOOR",
+	"BLOCK",
+    "SLAB",
+	"CARPET",
+	"SLIM_SLAB"
+  ]
+}

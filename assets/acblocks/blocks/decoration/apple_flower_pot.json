@@ -1,0 +1,10 @@
+{
+  "name": "Apple Flower Pot",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "apple_flower_pot"
+  },
+  "blockTypes": [
+    "POT"
+  ]
+}

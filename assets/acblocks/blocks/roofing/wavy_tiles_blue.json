@@ -1,0 +1,11 @@
+{
+  "name": "Wavy_Tiles_Blue",
+  "sound": "STONE",
+  "textures": {
+    "normal": "wavy_tiles_blue"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

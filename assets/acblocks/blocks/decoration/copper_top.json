@@ -1,0 +1,11 @@
+{
+  "name": "Copper Top",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "copper_top"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB"
+  ]
+}

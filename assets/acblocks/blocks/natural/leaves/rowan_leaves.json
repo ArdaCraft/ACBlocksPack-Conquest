@@ -1,0 +1,10 @@
+{
+  "name": "Rowan_Leaves",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "rowan_leaves"
+  },
+  "blockTypes": [
+    "LEAF"
+  ]
+}

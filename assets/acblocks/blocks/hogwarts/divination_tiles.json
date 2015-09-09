@@ -1,0 +1,11 @@
+{
+  "name": "Divination_Tiles",
+  "sound": "STONE",
+  "textures": {
+    "normal": "divination_tiles"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB"
+  ]
+}

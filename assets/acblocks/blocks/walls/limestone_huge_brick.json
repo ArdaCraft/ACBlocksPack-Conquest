@@ -1,8 +1,8 @@
 {
-  "name": "Huge_Bricks",
+  "name": "Limestone_Huge_Bricks",
   "sound": "STONE",
   "textures": {
-    "normal": "huge_brick"
+    "normal": "limestone_huge_brick"
   },
   "blockTypes": [
     "STAIRS",

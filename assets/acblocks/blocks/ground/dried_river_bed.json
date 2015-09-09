@@ -1,0 +1,11 @@
+{
+  "name": "Dried River Bed",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "dried_river_bed"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

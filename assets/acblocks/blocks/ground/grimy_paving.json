@@ -1,0 +1,13 @@
+{
+  "name": "Grimy Paving",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "grimy_paving"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB",
+	"CARPET",
+	"SLIM_SLAB"
+  ]
+}

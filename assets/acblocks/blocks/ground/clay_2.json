@@ -1,0 +1,11 @@
+{
+  "name": "Clay 2",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "clay_2"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

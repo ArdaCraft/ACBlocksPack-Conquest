@@ -1,0 +1,10 @@
+{
+  "name": "Scroll Shelf",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "scroll_shelf"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

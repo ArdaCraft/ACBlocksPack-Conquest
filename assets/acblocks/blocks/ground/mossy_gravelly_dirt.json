@@ -1,0 +1,11 @@
+{
+  "name": "Mossy Gravelly Dirt",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "mossy_gravelly_dirt"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

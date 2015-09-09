@@ -1,0 +1,12 @@
+{
+  "name": "Old_Pillar",
+  "sound": "STONE",
+  "textures": {
+    "top": "old_pillar_top",
+    "bottom": "old_pillar_top",
+    "sides": "old_pillar_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

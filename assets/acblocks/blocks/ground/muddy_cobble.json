@@ -1,0 +1,11 @@
+{
+  "name": "Muddy Cobble",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "muddy_cobble"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

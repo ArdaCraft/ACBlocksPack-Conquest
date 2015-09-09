@@ -1,0 +1,10 @@
+{
+  "name": "Thin_Leaves",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "thin_leaves"
+  },
+  "blockTypes": [
+    "LEAF"
+  ]
+}

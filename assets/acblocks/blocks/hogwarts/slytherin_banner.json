@@ -1,0 +1,14 @@
+{
+  "name": "Slytherin Banner",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "slytherin_banner"
+  },
+  "blockTypes": [
+    "TRAP_DOOR",
+	"BLOCK",
+    "SLAB",
+	"CARPET",
+	"SLIM_SLAB"
+  ]
+}

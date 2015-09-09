@@ -1,0 +1,11 @@
+{
+  "name": "Slytherin_Tiles",
+  "sound": "STONE",
+  "textures": {
+    "normal": "slytherin_tiles"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB"
+  ]
+}

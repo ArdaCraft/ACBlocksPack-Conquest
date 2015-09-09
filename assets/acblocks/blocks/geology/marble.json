@@ -1,0 +1,13 @@
+{
+  "name": "Marble",
+  "sound": "STONE",
+  "textures": {
+    "top": "marble",
+    "bottom": "marble",
+    "sides": "marble"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

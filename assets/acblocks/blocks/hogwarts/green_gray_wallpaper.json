@@ -1,0 +1,12 @@
+{
+  "name": "Green_Gray_Wallpaper",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "green_gray_wallpaper"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLIM_SLAB",
+    "SLAB"
+  ]
+}

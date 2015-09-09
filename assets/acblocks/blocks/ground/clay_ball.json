@@ -1,0 +1,10 @@
+{
+  "name": "Clay Ball",
+  "sound": "STONE",
+  "textures": {
+    "normal": "clay_ball"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

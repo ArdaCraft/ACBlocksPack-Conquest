@@ -1,0 +1,11 @@
+{
+  "name": "Hufflepuff_Tiles",
+  "sound": "STONE",
+  "textures": {
+    "normal": "hufflepuff_tiles"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Store Shelf",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "store_shelf"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

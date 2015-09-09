@@ -1,8 +1,8 @@
 {
-  "name": "Sandstone_Brick_Wall",
+  "name": "Slate_Cobblestone",
   "sound": "STONE",
   "textures": {
-    "normal": "sandstone_brick"
+    "normal": "slate_cobblestone"
   },
   "blockTypes": [
     "SLAB",

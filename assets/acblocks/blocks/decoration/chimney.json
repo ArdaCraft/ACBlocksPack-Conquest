@@ -1,0 +1,12 @@
+{
+  "name": "Chimney",
+  "sound": "STONE",
+  "textures": {
+    "top": "chimney_top",
+    "bottom": "chimney_top",
+    "sides": "chimney_side"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

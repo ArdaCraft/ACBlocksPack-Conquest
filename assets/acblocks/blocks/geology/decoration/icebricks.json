@@ -5,6 +5,8 @@
     "normal": "icebricks"
   },
   "blockTypes": [
-    "BLOCK"
+    "BLOCK",
+	"STAINED_GLASS",
+	"STAINED_PANE"
   ]
 }
