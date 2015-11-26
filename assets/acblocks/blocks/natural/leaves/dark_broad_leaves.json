@@ -1,0 +1,10 @@
+{
+  "name": "Dark Broad Leaves",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "dark_broad_leaves"
+  },
+  "blockTypes": [
+    "LEAF"
+  ]
+}

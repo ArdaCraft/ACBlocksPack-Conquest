@@ -2,7 +2,9 @@
   "name": "Orange_Flags",
   "sound": "DIRT",
   "textures": {
-    "normal": "orange_flags"
+    "normal": "orange_flags",
+    "top": "invisible",
+    "bottom": "invisible"
   },
   "blockTypes": [
     "GHOST_PANE"

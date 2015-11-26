@@ -1,0 +1,10 @@
+{
+  "name": "Venemous Tentacula",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "venemous_tentacula"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

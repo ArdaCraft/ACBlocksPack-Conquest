@@ -1,0 +1,11 @@
+{
+  "name": "Pillar Runes",
+  "sound": "STONE",
+  "textures": {
+    "normal": "pillar_runes"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

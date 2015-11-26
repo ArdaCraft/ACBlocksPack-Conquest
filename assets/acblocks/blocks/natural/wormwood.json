@@ -1,0 +1,10 @@
+{
+  "name": "Wormwood",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "wormwood"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

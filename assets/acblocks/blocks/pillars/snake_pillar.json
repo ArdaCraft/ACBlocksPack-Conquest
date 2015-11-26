@@ -1,0 +1,11 @@
+{
+  "name": "Snake Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "snake_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

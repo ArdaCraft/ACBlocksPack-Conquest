@@ -1,0 +1,11 @@
+{
+  "name": "Circle Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "circle_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

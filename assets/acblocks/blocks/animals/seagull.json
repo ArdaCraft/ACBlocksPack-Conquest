@@ -1,0 +1,10 @@
+{
+  "name": "Seagull",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "seagull"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

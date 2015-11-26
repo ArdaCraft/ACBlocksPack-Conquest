@@ -1,0 +1,10 @@
+{
+  "name": "Puffapod",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "puffapod"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

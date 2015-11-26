@@ -1,0 +1,17 @@
+{
+  "name": "Slate_Cobble_Mortar",
+  "sound": "STONE",
+  "textures": {
+    "top": "slate_cobble_mortar_top",
+    "bottom": "slate_cobble_mortar_top",
+    "sides": "slate_cobble_mortar"
+  },
+  "blockTypes": [
+    "STAIRS",
+    "WALL",
+    "CARPET",
+    "BLOCK",
+    "SLAB",
+    "FENCE"
+  ]
+}

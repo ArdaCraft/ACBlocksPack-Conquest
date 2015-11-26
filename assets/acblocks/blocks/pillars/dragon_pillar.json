@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "dragon_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Broom Rack",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "broom_rack"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Devils Snare",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "devils_snare"
+  },
+  "blockTypes": [
+    "LEAF"
+  ]
+}

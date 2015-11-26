@@ -1,0 +1,10 @@
+{
+  "name": "Bean Poles",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "bean_poles"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Stained White Brick",
+  "sound": "STONE",
+  "textures": {
+    "normal": "stained_white_brick"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK",
+	"STAIRS"
+  ]
+}

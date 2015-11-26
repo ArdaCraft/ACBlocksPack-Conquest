@@ -1,0 +1,12 @@
+{
+  "name": "Mithlond Wall Grey",
+  "sound": "STONE",
+  "textures": {
+    "normal": "mithlond_wall_grey"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK",
+	"STAIRS"
+  ]
+}

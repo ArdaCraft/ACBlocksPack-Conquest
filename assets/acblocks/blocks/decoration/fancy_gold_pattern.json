@@ -1,0 +1,11 @@
+{
+  "name": "Fancy Gold Pattern",
+  "sound": "STONE",
+  "textures": {
+    "normal": "fancy_gold_pattern"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

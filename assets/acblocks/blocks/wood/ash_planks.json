@@ -1,0 +1,12 @@
+{
+  "name": "Ash Planks",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "ash_planks"
+  },
+  "blockTypes": [
+    "BLOCK",
+	"SLAB",
+	"STAIRS"
+  ]
+}

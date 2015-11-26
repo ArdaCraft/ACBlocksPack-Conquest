@@ -2,7 +2,9 @@
   "name": "Blue_Flags",
   "sound": "DIRT",
   "textures": {
-    "normal": "blue_flags"
+    "normal": "blue_flags",
+    "top": "invisible",
+    "bottom": "invisible"
   },
   "blockTypes": [
     "GHOST_PANE"

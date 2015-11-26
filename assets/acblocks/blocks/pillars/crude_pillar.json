@@ -1,0 +1,11 @@
+{
+  "name": "Crude Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "crude_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

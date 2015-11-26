@@ -1,0 +1,10 @@
+{
+  "name": "Honeycomb",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "honey_combe"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

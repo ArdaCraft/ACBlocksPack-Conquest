@@ -1,0 +1,10 @@
+{
+  "name": "Nightshade",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "nightshade"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

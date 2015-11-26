@@ -1,0 +1,10 @@
+{
+  "name": "Horse Chestnut Leaves",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "horse_chestnut_leaves"
+  },
+  "blockTypes": [
+    "LEAF"
+  ]
+}

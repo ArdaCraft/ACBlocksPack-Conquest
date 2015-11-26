@@ -1,0 +1,10 @@
+{
+  "name": "Gillyweed",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "gillyweed"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

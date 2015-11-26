@@ -1,0 +1,13 @@
+{
+  "name": "Patterend Stone Floor",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "patterned_stone_floor"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB",
+	"CARPET",
+	"SLIM_SLAB"
+  ]
+}

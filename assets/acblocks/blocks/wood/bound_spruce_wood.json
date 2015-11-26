@@ -1,0 +1,12 @@
+{
+  "name": "Bound Spruce Wood",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "bound_spruce_wood"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK",
+	"STAIRS"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Refined Orange Wall Decor",
+  "sound": "STONE",
+  "textures": {
+    "normal": "refined_orange_wall_decor"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK"
+  ]
+}

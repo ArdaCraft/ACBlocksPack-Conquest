@@ -1,0 +1,12 @@
+{
+  "name": "Harad Wall",
+  "sound": "STONE",
+  "textures": {
+    "normal": "venetian_orange_wall"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK",
+    "STAIRS"
+  ]
+}

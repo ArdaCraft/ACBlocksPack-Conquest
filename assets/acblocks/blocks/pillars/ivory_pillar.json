@@ -1,0 +1,11 @@
+{
+  "name": "Ivory Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "ivory_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

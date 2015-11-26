@@ -1,0 +1,11 @@
+{
+  "name": "Solid Moss",
+  "sound": "DIRT",
+  "textures": {
+    "normal": "solid_moss"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "SLAB"
+  ]
+}

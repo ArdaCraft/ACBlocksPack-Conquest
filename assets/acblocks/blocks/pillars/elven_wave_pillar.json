@@ -1,0 +1,11 @@
+{
+  "name": "Elven Wave Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "elven_wave_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

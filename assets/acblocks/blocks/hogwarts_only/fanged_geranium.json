@@ -1,0 +1,10 @@
+{
+  "name": "Fanged Geranium",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "fanged_geranium"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

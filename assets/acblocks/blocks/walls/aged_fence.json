@@ -1,0 +1,13 @@
+{
+  "name": "Aged Fence",
+  "sound": "WOOD",
+  "textures": {
+    "top": "aged_fence_top",
+    "normal": "aged_fence",
+    "bottom": "aged_fence_bottom"
+  },
+  "blockTypes": [
+    "FENCE_GATE",
+    "FENCE"
+  ]
+}

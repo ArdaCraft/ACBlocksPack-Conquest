@@ -1,0 +1,10 @@
+{
+  "name": "Aconitum Lycoctonum",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "aconitum_lycoctonum"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

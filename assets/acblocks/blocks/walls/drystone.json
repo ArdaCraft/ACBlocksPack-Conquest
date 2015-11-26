@@ -1,0 +1,12 @@
+{
+  "name": "Drystone",
+  "sound": "STONE",
+  "textures": {
+    "normal": "drystone"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK",
+	"STAIRS"
+  ]
+}

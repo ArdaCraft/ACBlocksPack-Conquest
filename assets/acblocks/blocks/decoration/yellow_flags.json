@@ -2,7 +2,9 @@
   "name": "Yellow_Flags",
   "sound": "DIRT",
   "textures": {
-    "normal": "yellow_flags"
+    "normal": "yellow_flags",
+    "top": "invisible",
+    "bottom": "invisible"
   },
   "blockTypes": [
     "GHOST_PANE"

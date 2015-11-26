@@ -1,8 +1,8 @@
 {
-  "name": "Green_Flags",
-  "sound": "DIRT",
+  "name": "Low Iron Pane",
+  "sound": "STONE",
   "textures": {
-    "normal": "green_flags",
+    "normal": "low_iron_pane",
     "top": "invisible",
     "bottom": "invisible"
   },

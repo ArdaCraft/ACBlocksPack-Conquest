@@ -1,0 +1,10 @@
+{
+  "name": "Bubotuber",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "bubotubor"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

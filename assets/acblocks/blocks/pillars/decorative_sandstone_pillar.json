@@ -1,0 +1,11 @@
+{
+  "name": "Decorative Sandstone Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "decorative_sandstone_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

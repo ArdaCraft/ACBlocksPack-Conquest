@@ -1,0 +1,10 @@
+{
+  "name": "Mandragora Autumnalis",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "mandrake_baby_pressure_plate"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

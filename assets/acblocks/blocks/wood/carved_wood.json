@@ -1,0 +1,10 @@
+{
+  "name": "Carved Wood",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "carved_wood"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Interior Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "interior_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}

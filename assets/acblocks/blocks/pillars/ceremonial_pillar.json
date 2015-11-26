@@ -1,0 +1,11 @@
+{
+  "name": "Ceremonial Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "ceremonial_pillar"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRUNK"
+  ]
+}
