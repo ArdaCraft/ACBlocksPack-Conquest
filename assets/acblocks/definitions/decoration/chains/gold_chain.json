@@ -1,0 +1,10 @@
+{
+  "name": "gold_chain",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "gold_chain"
+  }
+}

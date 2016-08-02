@@ -1,0 +1,10 @@
+{
+  "name": "cobblestone_ladder",
+  "base": "STONE",
+  "types": [
+    "LADDER"
+  ],
+  "textures": {
+    "normal": "cobblestone_ladder"
+  }
+}

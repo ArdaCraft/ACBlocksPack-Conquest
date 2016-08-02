@@ -1,0 +1,10 @@
+{
+  "name": "bulges",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "bulges_web"
+  }
+}

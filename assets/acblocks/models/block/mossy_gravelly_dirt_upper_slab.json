@@ -1,0 +1,8 @@
+{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/mossy_gravelly_dirt",
+        "top": "acblocks:blocks/mossy_gravelly_dirt",
+        "side": "acblocks:blocks/mossy_gravelly_dirt"
+    }
+}

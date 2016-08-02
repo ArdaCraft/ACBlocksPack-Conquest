@@ -1,0 +1,11 @@
+{
+  "name": "planks_nondescript",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "planks_nondescript"
+  }
+}

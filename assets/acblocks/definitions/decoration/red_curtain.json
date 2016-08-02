@@ -1,0 +1,10 @@
+{
+  "name": "red_curtain",
+  "base": "DIRT",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "red_curtain"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "apple_flower_pot",
+  "base": "WOOD",
+  "types": [
+    "POT"
+  ],
+  "textures": {
+    "normal": "apple_flower_pot"
+  }
+}

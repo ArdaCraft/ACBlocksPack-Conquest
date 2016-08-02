@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "acblocks:blocks/brick_mossy",
+        "top": "acblocks:blocks/brick_mossy",
+        "side": "acblocks:blocks/brick_mossy"
+    }
+}

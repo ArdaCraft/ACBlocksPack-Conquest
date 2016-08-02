@@ -1,0 +1,10 @@
+{
+  "name": "hanging_ivy",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hanging_ivy_web"
+  }
+}

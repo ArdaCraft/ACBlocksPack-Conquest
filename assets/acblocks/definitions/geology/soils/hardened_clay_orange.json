@@ -1,0 +1,10 @@
+{
+  "name": "hardened_clay_orange",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "hardened_clay_orange"
+  }
+}

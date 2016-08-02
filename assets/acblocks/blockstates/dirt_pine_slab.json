@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:dirt_pine_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:dirt_pine_upper_slab" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/wavy_roof_tiles",
+        "top": "acblocks:blocks/wavy_roof_tiles",
+        "side": "acblocks:blocks/wavy_roof_tiles"
+    }
+}

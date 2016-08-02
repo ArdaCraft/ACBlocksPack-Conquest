@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:bone_plate_6_plate" },
+        "powered=true": { "model": "acblocks:bone_plate_6_plate" }
+    }
+}

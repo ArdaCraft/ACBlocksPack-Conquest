@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:sickle_plate_plate" },
+        "powered=true": { "model": "acblocks:sickle_plate_plate" }
+    }
+}

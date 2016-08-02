@@ -1,0 +1,10 @@
+{
+  "name": "light_clay",
+  "base": "STONE",
+  "types": [
+    "POT"
+  ],
+  "textures": {
+    "normal": "pot_light_clay"
+  }
+}

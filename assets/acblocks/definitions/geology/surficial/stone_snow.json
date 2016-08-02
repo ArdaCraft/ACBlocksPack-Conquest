@@ -1,0 +1,13 @@
+{
+  "name": "stone_snow",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "top": "stone_snow_top",
+    "bottom": "stone_snow",
+    "sides": "stone_snow_side"
+  }
+}

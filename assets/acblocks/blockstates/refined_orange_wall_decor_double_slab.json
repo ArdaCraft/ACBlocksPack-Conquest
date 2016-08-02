@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:refined_orange_wall_decor_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:refined_orange_wall_decor_double_slab" }
+  }
+}

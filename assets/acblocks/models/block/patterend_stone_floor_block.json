@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/patterned_stone_floor",
+        "top": "acblocks:blocks/patterned_stone_floor",
+        "side": "acblocks:blocks/patterned_stone_floor"
+    }
+}

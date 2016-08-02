@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/wool_black",
+        "top": "acblocks:blocks/wool_black",
+        "side": "acblocks:blocks/wool_black"
+    }
+}

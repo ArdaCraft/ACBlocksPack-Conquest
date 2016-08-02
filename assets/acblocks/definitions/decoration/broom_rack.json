@@ -1,0 +1,10 @@
+{
+  "name": "broom_rack",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "broom_rack"
+  }
+}

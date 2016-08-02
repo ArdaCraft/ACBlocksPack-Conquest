@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:drystone_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:drystone_upper_slab" }
+    }
+}

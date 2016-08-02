@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_sew",
+    "textures": {
+        "edge": "acblocks:blocks/green_curtain",
+        "pane": "acblocks:blocks/green_curtain"
+    }
+}

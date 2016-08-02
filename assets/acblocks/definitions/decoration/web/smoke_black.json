@@ -1,0 +1,10 @@
+{
+  "name": "smoke_black",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "smoke_black"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "table",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "table_face",
+    "bottom": "table_face",
+    "sides": "table_side"
+  }
+}

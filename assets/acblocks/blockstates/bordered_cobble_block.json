@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:bordered_cobble_block" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "old_pillar",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "top": "old_pillar_top",
+    "bottom": "old_pillar_top",
+    "sides": "old_pillar_side"
+  }
+}

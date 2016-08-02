@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_ns",
+    "textures": {
+        "edge": "acblocks:blocks/spider_web",
+        "pane": "acblocks:blocks/spider_web"
+    }
+}

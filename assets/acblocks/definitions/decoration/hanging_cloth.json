@@ -1,0 +1,12 @@
+{
+  "name": "low_iron_pane",
+  "base": "STONE",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "low_iron_pane",
+    "top": "invisible",
+    "bottom": "invisible"
+  }
+}

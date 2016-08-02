@@ -1,0 +1,12 @@
+{
+  "name": "mycelium",
+  "base": "DIRT",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "mycelium_top",
+    "bottom": "dirt",
+    "sides": "mycelium_side"
+  }
+}

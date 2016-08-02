@@ -1,0 +1,15 @@
+{
+  "name": "sandstone_huge_bricks",
+  "base": "STONE",
+  "types": [
+    "STAIRS",
+    "WALL",
+    "CARPET",
+    "BLOCK",
+    "SLAB",
+    "FENCE"
+  ],
+  "textures": {
+    "normal": "sandstone_huge_brick"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "acblocks:blocks/limestone_rock"
+    }
+}

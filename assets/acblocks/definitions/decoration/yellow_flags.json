@@ -1,0 +1,12 @@
+{
+  "name": "yellow_flags",
+  "base": "DIRT",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "yellow_flags",
+    "top": "invisible",
+    "bottom": "invisible"
+  }
+}

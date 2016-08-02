@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "acblocks:blocks/burned_oak_log_top",
+        "side": "acblocks:blocks/burned_oak_log"
+    }
+}

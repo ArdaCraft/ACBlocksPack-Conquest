@@ -1,0 +1,11 @@
+{
+  "name": "bree_purple",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "bree_purple"
+  }
+}

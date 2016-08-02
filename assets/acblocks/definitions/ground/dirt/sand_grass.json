@@ -1,0 +1,11 @@
+{
+  "name": "sand_grass",
+  "base": "SAND",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "sand_grass"
+  }
+}

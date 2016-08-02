@@ -1,0 +1,10 @@
+{
+  "name": "thyme",
+  "base": "GRASS",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "thyme_plant"
+  }
+}

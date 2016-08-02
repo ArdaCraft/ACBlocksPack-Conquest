@@ -1,0 +1,11 @@
+{
+  "name": "bree_pink",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "bree_pink"
+  }
+}

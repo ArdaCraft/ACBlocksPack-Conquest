@@ -1,0 +1,10 @@
+{
+  "name": "wood_lattice",
+  "base": "WOOD",
+  "types": [
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "wood_lattice_trapdoor"
+  }
+}

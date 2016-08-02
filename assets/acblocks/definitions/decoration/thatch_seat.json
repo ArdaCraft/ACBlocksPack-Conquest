@@ -1,0 +1,13 @@
+{
+  "name": "thatch_seat",
+  "base": "WOOD",
+  "types": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ],
+  "textures": {
+    "normal": "planks_oak",
+    "top": "thatch_seat_top",
+    "sides": "thatch_seat_side"
+  }
+}

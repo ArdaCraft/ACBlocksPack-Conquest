@@ -1,0 +1,12 @@
+{
+  "name": "barrel_lapiz",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_lapiz",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

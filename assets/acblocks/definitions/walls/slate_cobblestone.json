@@ -1,0 +1,12 @@
+{
+  "name": "slate_cobblestone",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "slate_cobblestone"
+  }
+}

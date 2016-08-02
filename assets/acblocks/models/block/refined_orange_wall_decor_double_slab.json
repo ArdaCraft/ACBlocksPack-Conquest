@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/refined_orange_wall_decor",
+        "top": "acblocks:blocks/refined_orange_wall_decor",
+        "side": "acblocks:blocks/refined_orange_wall_decor"
+    }
+}

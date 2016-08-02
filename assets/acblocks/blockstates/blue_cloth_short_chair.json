@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "power=0": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=1": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=2": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=3": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=4": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=5": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=6": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=7": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=8": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=9": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=10": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=11": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=12": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=13": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=14": { "model": "acblocks:blue_cloth_short_chair" },
+        "power=15": { "model": "acblocks:blue_cloth_short_chair" }
+    }
+}

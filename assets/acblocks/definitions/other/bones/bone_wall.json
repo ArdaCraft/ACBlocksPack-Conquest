@@ -1,0 +1,10 @@
+{
+  "name": "bone_wall",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "bone_wall"
+  }
+}

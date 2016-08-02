@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:yellow_plaster_stone_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:yellow_plaster_stone_double_slab" }
+  }
+}

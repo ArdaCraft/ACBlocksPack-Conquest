@@ -1,0 +1,11 @@
+{
+  "name": "solid_moss",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "solid_moss"
+  }
+}

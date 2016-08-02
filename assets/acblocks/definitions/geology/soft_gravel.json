@@ -1,0 +1,13 @@
+{
+  "name": "soft_gravel",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "top": "soft_gravel",
+    "bottom": "soft_gravel",
+    "sides": "soft_gravel"
+  }
+}

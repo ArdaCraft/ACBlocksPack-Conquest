@@ -1,0 +1,11 @@
+{
+  "name": "acacia",
+  "base": "WOOD",
+  "types": [
+    "TRUNK",
+    "FENCE"
+  ],
+  "textures": {
+    "normal": "log_acacia"
+  }
+}

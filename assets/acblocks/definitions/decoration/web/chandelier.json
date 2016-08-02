@@ -1,0 +1,10 @@
+{
+  "name": "chandelier",
+  "base": "STONE",
+  "types": [
+    "LIGHT_WEB"
+  ],
+  "textures": {
+    "normal": "chandelier"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "dried_hops_sack",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "dried_hops_sack_top",
+    "bottom": "dried_hops_sack_side",
+    "sides": "dried_hops_sack_side"
+  }
+}

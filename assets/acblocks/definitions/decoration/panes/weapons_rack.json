@@ -1,0 +1,11 @@
+{
+  "name": "weapons_rack",
+  "base": "STONE",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "weapons_rack",
+    "top": "weapons_rack_top"
+  }
+}

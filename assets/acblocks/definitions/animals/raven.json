@@ -1,0 +1,10 @@
+{
+  "name": "raven",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "raven"
+  }
+}

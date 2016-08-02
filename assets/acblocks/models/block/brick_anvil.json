@@ -1,0 +1,8 @@
+{
+    "parent": "block/anvil",
+    "textures": {
+        "particle": "acblocks:blocks/brick",
+        "body": "acblocks:blocks/brick",
+        "top": "acblocks:blocks/brick"
+    }
+}

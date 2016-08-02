@@ -1,0 +1,12 @@
+{
+  "name": "cut_limestone",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLIM_SLAB",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "cut_limestone"
+  }
+}

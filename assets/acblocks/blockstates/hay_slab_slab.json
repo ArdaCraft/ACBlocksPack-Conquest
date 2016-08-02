@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:hay_slab_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:hay_slab_upper_slab" }
+    }
+}

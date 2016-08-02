@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:dried_river_bed_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:dried_river_bed_upper_slab" }
+    }
+}

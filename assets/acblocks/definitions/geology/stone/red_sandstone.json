@@ -1,0 +1,14 @@
+{
+  "name": "red_sandstone",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLIM_SLAB",
+    "SLAB"
+  ],
+  "textures": {
+    "top": "red_sandstone_top",
+    "bottom": "red_sandstone_bottom",
+    "sides": "red_sandstone_normal"
+  }
+}

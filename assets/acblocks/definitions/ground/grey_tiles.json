@@ -1,0 +1,11 @@
+{
+  "name": "grey_tiles",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "grey_tiles"
+  }
+}

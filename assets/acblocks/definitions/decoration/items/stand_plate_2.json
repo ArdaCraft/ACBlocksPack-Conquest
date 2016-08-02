@@ -1,0 +1,10 @@
+{
+  "name": "stand_plate_2",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "stand_2_plate"
+  }
+}

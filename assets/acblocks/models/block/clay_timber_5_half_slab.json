@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/claytimber_5",
+        "top": "acblocks:blocks/claytimber_5",
+        "side": "acblocks:blocks/claytimber_5"
+    }
+}

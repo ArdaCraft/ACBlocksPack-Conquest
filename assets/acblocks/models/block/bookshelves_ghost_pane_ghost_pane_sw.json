@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_sw",
+    "textures": {
+        "edge": "acblocks:blocks/bookshelves_ghost_pane",
+        "pane": "acblocks:blocks/bookshelves_ghost_pane"
+    }
+}

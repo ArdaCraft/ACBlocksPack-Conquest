@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:slate_cobblestone_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:slate_cobblestone_upper_slab" }
+    }
+}

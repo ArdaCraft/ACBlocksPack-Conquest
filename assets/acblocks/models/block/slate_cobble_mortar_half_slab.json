@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/slate_cobble_mortar_top",
+        "top": "acblocks:blocks/slate_cobble_mortar_top",
+        "side": "acblocks:blocks/slate_cobble_mortar"
+    }
+}

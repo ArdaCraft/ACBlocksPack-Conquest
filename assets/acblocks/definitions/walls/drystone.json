@@ -1,0 +1,12 @@
+{
+  "name": "drystone",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "drystone"
+  }
+}

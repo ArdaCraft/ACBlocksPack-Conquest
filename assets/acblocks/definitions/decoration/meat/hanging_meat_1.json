@@ -1,0 +1,10 @@
+{
+  "name": "hanging_meat_1",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hanging_meat_1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "log_dark_oak_mossy",
+  "base": "WOOD",
+  "types": [
+    "LOG"
+  ],
+  "textures": {
+    "top": "log_dark_oak_mossy_top",
+    "bottom": "log_dark_oak_mossy_top",
+    "sides": "log_dark_oak_mossy_side"
+  }
+}

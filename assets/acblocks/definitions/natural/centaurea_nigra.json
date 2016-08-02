@@ -1,0 +1,10 @@
+{
+  "name": "centaurea_nigra",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "centaurea_nigra"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/dark_broad_leaves",
+        "top": "acblocks:blocks/dark_broad_leaves",
+        "side": "acblocks:blocks/dark_broad_leaves"
+    }
+}

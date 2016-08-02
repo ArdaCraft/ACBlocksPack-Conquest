@@ -1,0 +1,12 @@
+{
+  "name": "chimney",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "chimney_top",
+    "bottom": "chimney_top",
+    "sides": "chimney_side"
+  }
+}

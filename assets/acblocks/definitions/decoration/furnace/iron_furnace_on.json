@@ -1,0 +1,12 @@
+{
+  "name": "iron_on",
+  "base": "STONE",
+  "types": [
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "furnace_iron_side",
+    "top": "furnace_iron_top",
+    "bottom": "furnace_iron_front_on"
+  }
+}

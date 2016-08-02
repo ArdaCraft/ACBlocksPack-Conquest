@@ -1,0 +1,11 @@
+{
+  "name": "muddy_cobble",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "muddy_cobble"
+  }
+}

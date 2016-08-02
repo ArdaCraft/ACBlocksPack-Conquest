@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:copper_top_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:copper_top_upper_slab" }
+    }
+}

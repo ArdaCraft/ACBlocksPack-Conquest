@@ -1,0 +1,10 @@
+{
+  "name": "flies_2",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "flies_2"
+  }
+}

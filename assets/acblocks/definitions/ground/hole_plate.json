@@ -1,0 +1,10 @@
+{
+  "name": "hole",
+  "base": "STONE",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "hole_plate"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/smooth_black_stone",
+        "top": "acblocks:blocks/smooth_black_stone",
+        "side": "acblocks:blocks/smooth_black_stone"
+    }
+}

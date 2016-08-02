@@ -1,0 +1,10 @@
+{
+  "name": "card_game",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "card_game"
+  }
+}

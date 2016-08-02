@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:slate_blue_grey_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:slate_blue_grey_upper_slab" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:driftwood_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:driftwood_upper_slab" }
+    }
+}

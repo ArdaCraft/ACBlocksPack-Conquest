@@ -1,0 +1,12 @@
+{
+  "name": "log_burned_oak",
+  "base": "WOOD",
+  "types": [
+    "LOG"
+  ],
+  "textures": {
+    "top": "burned_oak_log_top",
+    "bottom": "burned_oak_log_top",
+    "sides": "burned_oak_log"
+  }
+}

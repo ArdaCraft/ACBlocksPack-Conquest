@@ -1,0 +1,12 @@
+{
+  "name": "arrow_slit",
+  "base": "STONE",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "arrow_slit",
+    "top": "invisible",
+    "bottom": "invisible"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fur_pelt",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "fur_pelt"
+  }
+}

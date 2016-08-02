@@ -1,0 +1,13 @@
+{
+  "name": "dark_seat",
+  "base": "WOOD",
+  "types": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ],
+  "textures": {
+    "normal": "planks_oak",
+    "top": "dark_seat_top",
+    "sides": "dark_seat_side"
+  }
+}

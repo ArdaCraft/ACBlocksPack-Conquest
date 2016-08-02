@@ -1,0 +1,11 @@
+{
+  "name": "thatch_dark_border",
+  "base": "SPONGE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "dark_thatch_border"
+  }
+}

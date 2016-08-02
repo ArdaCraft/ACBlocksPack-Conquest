@@ -1,0 +1,10 @@
+{
+  "name": "light_slotted_1",
+  "base": "WOOD",
+  "types": [
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "trapdoor_light_slotted_1"
+  }
+}

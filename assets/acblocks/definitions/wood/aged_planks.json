@@ -1,0 +1,11 @@
+{
+  "name": "aged_planks",
+  "base": "WOOD",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "aged_planks"
+  }
+}

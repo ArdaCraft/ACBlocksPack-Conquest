@@ -1,0 +1,12 @@
+{
+  "name": "oak",
+  "base": "WOOD",
+  "types": [
+    "SLIM_SLAB",
+    "TRAP_DOOR",
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "planks_oak"
+  }
+}

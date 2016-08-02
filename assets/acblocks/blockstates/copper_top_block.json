@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:copper_top_block" }
+  }
+}

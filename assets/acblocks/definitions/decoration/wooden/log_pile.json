@@ -1,0 +1,13 @@
+{
+  "name": "log_pile",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "SLAB"
+  ],
+  "textures": {
+    "top": "log_pile_face",
+    "bottom": "log_pile_face",
+    "sides": "log_pile_side"
+  }
+}

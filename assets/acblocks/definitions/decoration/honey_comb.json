@@ -1,0 +1,10 @@
+{
+  "name": "honeycomb",
+  "base": "SPONGE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "honey_combe"
+  }
+}

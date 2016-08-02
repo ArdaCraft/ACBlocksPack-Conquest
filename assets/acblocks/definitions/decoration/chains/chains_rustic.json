@@ -1,0 +1,10 @@
+{
+  "name": "chains_rustic",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "chains_rustic"
+  }
+}

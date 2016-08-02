@@ -1,0 +1,11 @@
+{
+  "name": "clay_timber_box",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "claytimber_box"
+  }
+}

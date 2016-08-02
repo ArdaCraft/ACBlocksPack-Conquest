@@ -1,0 +1,11 @@
+{
+  "name": "dragon_pillar",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "dragon_pillar"
+  }
+}

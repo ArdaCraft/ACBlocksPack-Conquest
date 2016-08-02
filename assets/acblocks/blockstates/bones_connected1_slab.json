@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:bones_connected1_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:bones_connected1_upper_slab" }
+    }
+}

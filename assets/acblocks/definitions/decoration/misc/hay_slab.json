@@ -1,0 +1,10 @@
+{
+  "name": "hay_slab",
+  "base": "SPONGE",
+  "types": [
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "hay_slab"
+  }
+}

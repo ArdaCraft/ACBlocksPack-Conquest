@@ -1,0 +1,10 @@
+{
+  "name": "clay_ball",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "clay_ball"
+  }
+}

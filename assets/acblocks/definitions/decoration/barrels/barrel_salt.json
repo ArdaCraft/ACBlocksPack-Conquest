@@ -1,0 +1,12 @@
+{
+  "name": "barrel_salt",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_salt",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

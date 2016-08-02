@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "acblocks:blocks/log_dark_oak_mossy_top",
+        "side": "acblocks:blocks/log_dark_oak_mossy_side"
+    }
+}

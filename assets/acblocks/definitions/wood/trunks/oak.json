@@ -1,0 +1,11 @@
+{
+  "name": "oak",
+  "base": "WOOD",
+  "types": [
+    "TRUNK",
+    "FENCE"
+  ],
+  "textures": {
+    "normal": "log_oak"
+  }
+}

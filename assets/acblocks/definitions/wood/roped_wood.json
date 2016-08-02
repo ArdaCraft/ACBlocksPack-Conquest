@@ -1,0 +1,11 @@
+{
+  "name": "roped_wood",
+  "base": "WOOD",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "roped_wood"
+  }
+}

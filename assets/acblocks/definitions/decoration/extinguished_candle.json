@@ -1,0 +1,10 @@
+{
+  "name": "extinguished_candle",
+  "base": "WOOD",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "extinguished_candle"
+  }
+}

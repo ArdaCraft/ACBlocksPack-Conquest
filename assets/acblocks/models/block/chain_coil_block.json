@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/chain_log_top",
+        "top": "acblocks:blocks/chain_log_top",
+        "side": "acblocks:blocks/chain_log_side"
+    }
+}

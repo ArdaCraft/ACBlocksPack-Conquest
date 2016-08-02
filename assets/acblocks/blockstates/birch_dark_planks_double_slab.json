@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:birch_dark_planks_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:birch_dark_planks_double_slab" }
+  }
+}

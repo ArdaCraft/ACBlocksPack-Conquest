@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "acblocks:rope_directional_vertical" },
+        "axis=z":   { "model": "acblocks:rope_directional_horizontal" },
+        "axis=x":   { "model": "acblocks:rope_directional_horizontal", "y": 90 },
+        "axis=none": { "model": "acblocks:rope_directional_none" }
+    }
+}

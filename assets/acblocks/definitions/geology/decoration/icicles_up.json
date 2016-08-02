@@ -1,0 +1,10 @@
+{
+  "name": "icicles_2",
+  "base": "GLASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "icicle2"
+  }
+}

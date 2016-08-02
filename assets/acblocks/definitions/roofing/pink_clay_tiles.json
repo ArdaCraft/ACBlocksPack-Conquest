@@ -1,0 +1,11 @@
+{
+  "name": "pink_clay_tiles",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "pink_clay_tiles"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/dry_dirt",
+        "top": "acblocks:blocks/dry_dirt",
+        "side": "acblocks:blocks/dry_dirt"
+    }
+}

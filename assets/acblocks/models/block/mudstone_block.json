@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/nat_mudstone",
+        "top": "acblocks:blocks/nat_mudstone",
+        "side": "acblocks:blocks/nat_mudstone"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "juncus_effusus_1",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "juncus_effusus_1"
+  }
+}

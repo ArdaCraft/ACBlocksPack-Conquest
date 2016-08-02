@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_new",
+    "textures": {
+        "edge": "acblocks:blocks/red_curtain",
+        "pane": "acblocks:blocks/red_curtain"
+    }
+}

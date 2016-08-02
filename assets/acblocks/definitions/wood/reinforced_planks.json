@@ -1,0 +1,11 @@
+{
+  "name": "reinforced_planks",
+  "base": "WOOD",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "reinforced_planks"
+  }
+}

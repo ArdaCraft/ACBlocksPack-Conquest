@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:paper_plate_2_plate" },
+        "powered=true": { "model": "acblocks:paper_plate_2_plate" }
+    }
+}

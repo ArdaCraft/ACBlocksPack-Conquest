@@ -1,0 +1,11 @@
+{
+  "name": "ceremonial_pillar",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "ceremonial_pillar"
+  }
+}

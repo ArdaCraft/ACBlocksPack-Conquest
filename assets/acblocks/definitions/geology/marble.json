@@ -1,0 +1,13 @@
+{
+  "name": "marble",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "top": "marble",
+    "bottom": "marble",
+    "sides": "marble"
+  }
+}

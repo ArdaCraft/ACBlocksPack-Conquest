@@ -1,0 +1,11 @@
+{
+  "name": "birch_dark_planks",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "birch_planks_dark"
+  }
+}

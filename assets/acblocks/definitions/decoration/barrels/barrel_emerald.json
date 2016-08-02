@@ -1,0 +1,12 @@
+{
+  "name": "barrel_emerald",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_emerald",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

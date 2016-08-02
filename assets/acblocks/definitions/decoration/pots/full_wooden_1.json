@@ -1,0 +1,10 @@
+{
+  "name": "full_wooden_1",
+  "base": "WOOD",
+  "types": [
+    "POT"
+  ],
+  "textures": {
+    "normal": "pot_full_wooden_1"
+  }
+}

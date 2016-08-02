@@ -1,0 +1,10 @@
+{
+  "name": "scale",
+  "base": "STONE",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "scale_pane"
+  }
+}

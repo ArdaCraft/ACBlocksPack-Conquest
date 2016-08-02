@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:patterend_stone_floor_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:patterend_stone_floor_upper_slab" }
+    }
+}

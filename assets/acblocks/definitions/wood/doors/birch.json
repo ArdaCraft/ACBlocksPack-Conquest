@@ -1,0 +1,12 @@
+{
+  "name": "birch",
+  "base": "WOOD",
+  "types": [
+    "DOOR"
+  ],
+  "textures": {
+    "normal": "door_birch_lower",
+    "top": "door_birch_upper",
+    "bottom": "door_birch_lower"
+  }
+}

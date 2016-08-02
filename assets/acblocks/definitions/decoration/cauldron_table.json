@@ -1,0 +1,12 @@
+{
+  "name": "cauldron_table",
+  "base": "STONE",
+  "types": [
+    "CAULDRON"
+  ],
+  "textures": {
+    "top": "cauldron_table_top",
+    "bottom": "cauldron_table_bottom",
+    "sides": "cauldron_table_side"
+  }
+}

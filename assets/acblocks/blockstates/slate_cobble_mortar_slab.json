@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:slate_cobble_mortar_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:slate_cobble_mortar_upper_slab" }
+    }
+}

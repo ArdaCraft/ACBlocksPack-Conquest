@@ -1,0 +1,11 @@
+{
+  "name": "daub_timber_box",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "daubtimber_box"
+  }
+}

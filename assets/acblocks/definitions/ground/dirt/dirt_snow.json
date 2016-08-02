@@ -1,0 +1,11 @@
+{
+  "name": "dirt_snow",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "dirt_snow"
+  }
+}

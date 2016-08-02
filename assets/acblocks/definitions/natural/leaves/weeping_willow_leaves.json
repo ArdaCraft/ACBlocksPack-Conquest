@@ -1,0 +1,10 @@
+{
+  "name": "weeping_willow_leaves",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "weeping_willow_leaves"
+  }
+}

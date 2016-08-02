@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "acblocks:net_web" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wormwood",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "wormwood"
+  }
+}

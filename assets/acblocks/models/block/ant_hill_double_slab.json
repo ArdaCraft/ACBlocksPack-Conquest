@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/ant_hill",
+        "top": "acblocks:blocks/ant_hill",
+        "side": "acblocks:blocks/ant_hill"
+    }
+}

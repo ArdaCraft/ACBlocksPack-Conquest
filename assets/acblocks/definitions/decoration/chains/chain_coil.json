@@ -1,0 +1,12 @@
+{
+  "name": "chain_coil",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "chain_log_top",
+    "bottom": "chain_log_top",
+    "sides": "chain_log_side"
+  }
+}

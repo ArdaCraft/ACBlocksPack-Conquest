@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:covered_crate_block" }
+  }
+}

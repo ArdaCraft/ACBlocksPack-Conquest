@@ -1,0 +1,10 @@
+{
+  "name": "hanging_lichen",
+  "base": "GRASS",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "hanging_lichen"
+  }
+}

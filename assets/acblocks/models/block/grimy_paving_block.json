@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/grimy_paving",
+        "top": "acblocks:blocks/grimy_paving",
+        "side": "acblocks:blocks/grimy_paving"
+    }
+}

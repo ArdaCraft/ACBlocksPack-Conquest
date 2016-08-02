@@ -1,0 +1,11 @@
+{
+  "name": "driftwood",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "driftwood"
+  }
+}

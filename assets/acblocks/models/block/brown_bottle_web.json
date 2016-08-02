@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "acblocks:blocks/brown_bottle_web"
+    }
+}

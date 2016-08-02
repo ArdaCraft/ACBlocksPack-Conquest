@@ -1,0 +1,10 @@
+{
+  "name": "bluebird",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "bluebird"
+  }
+}

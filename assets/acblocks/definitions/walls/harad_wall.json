@@ -1,0 +1,12 @@
+{
+  "name": "harad_wall",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "venetian_orange_wall"
+  }
+}

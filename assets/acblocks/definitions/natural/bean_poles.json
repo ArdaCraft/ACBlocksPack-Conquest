@@ -1,0 +1,10 @@
+{
+  "name": "bean_poles",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "bean_poles"
+  }
+}

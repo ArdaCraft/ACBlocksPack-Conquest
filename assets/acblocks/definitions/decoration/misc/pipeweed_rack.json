@@ -1,0 +1,12 @@
+{
+  "name": "pipeweed_rack",
+  "base": "WOOD",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "pipeweed_rack",
+    "top": "invisible",
+    "bottom": "invisible"
+  }
+}

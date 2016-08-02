@@ -1,0 +1,10 @@
+{
+  "name": "rope_knotted",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "rope_knotted"
+  }
+}

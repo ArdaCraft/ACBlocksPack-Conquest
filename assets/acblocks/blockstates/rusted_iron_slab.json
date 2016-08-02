@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:rusted_iron_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:rusted_iron_upper_slab" }
+    }
+}

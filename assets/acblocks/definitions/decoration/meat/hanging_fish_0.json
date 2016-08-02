@@ -1,0 +1,10 @@
+{
+  "name": "hanging_fish_0",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hanging_fish_0"
+  }
+}

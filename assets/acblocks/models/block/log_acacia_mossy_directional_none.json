@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "acblocks:blocks/log_acacia_mossy_side"
+    }
+}

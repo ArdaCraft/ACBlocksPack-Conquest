@@ -1,0 +1,11 @@
+{
+  "name": "iron_fence",
+  "base": "WOOD",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "ironfence_dark",
+    "top": "wicker_fence_top"
+  }
+}

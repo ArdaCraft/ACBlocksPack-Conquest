@@ -1,0 +1,10 @@
+{
+  "name": "brown_twiggy_leaves",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "brown_twiggy_leaves"
+  }
+}

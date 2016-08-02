@@ -1,0 +1,10 @@
+{
+  "name": "iron",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "iron_plate"
+  }
+}

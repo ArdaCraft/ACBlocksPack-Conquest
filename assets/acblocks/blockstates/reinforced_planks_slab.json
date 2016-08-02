@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:reinforced_planks_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:reinforced_planks_upper_slab" }
+    }
+}

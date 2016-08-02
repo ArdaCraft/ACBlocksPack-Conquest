@@ -1,0 +1,13 @@
+{
+  "name": "wicker",
+  "base": "WOOD",
+  "types": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ],
+  "textures": {
+    "normal": "planks_oak",
+    "top": "wicker_dark_bottom",
+    "sides": "chair_wood_side"
+  }
+}

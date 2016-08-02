@@ -1,0 +1,10 @@
+{
+  "name": "salmon",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "salmon_web"
+  }
+}

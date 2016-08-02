@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:fancy_gold_pattern_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:fancy_gold_pattern_upper_slab" }
+    }
+}

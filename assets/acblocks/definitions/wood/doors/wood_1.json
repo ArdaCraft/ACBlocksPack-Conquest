@@ -1,0 +1,12 @@
+{
+  "name": "wood_1",
+  "base": "WOOD",
+  "types": [
+    "DOOR"
+  ],
+  "textures": {
+    "normal": "door_wood_1_lower",
+    "top": "door_wood_1_upper",
+    "bottom": "door_wood_1_lower"
+  }
+}

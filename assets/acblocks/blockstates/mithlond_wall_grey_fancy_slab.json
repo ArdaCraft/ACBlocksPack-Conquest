@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:mithlond_wall_grey_fancy_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:mithlond_wall_grey_fancy_upper_slab" }
+    }
+}

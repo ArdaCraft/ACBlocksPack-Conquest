@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/mithlond_wall_grey_fancy",
+        "top": "acblocks:blocks/mithlond_wall_grey_fancy",
+        "side": "acblocks:blocks/mithlond_wall_grey_fancy"
+    }
+}

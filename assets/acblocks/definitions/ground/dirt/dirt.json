@@ -1,0 +1,12 @@
+{
+  "name": "dirt",
+  "base": "DIRT",
+  "types": [
+    "SLAB",
+    "CARPET",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "dirt"
+  }
+}

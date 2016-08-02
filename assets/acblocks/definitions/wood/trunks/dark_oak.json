@@ -1,0 +1,11 @@
+{
+  "name": "dark_oak",
+  "base": "WOOD",
+  "types": [
+    "TRUNK",
+    "FENCE"
+  ],
+  "textures": {
+    "normal": "log_dark_oak"
+  }
+}

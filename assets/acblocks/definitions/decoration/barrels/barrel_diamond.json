@@ -1,0 +1,12 @@
+{
+  "name": "barrel_diamond",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_diamond",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "blue_cloth",
+  "base": "WOOD",
+  "types": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ],
+  "textures": {
+    "normal": "planks_oak",
+    "top": "chair_blue_top",
+    "sides": "chair_blue_side"
+  }
+}

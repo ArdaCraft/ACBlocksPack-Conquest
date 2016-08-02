@@ -1,0 +1,10 @@
+{
+  "name": "iron_grate",
+  "base": "STONE",
+  "types": [
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "iron_grate_trapdoor"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "toad",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "toad"
+  }
+}

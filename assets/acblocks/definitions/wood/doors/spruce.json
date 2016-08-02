@@ -1,0 +1,12 @@
+{
+  "name": "spruce",
+  "base": "WOOD",
+  "types": [
+    "DOOR"
+  ],
+  "textures": {
+    "normal": "door_spruce_lower",
+    "top": "door_spruce_upper",
+    "bottom": "door_spruce_lower"
+  }
+}

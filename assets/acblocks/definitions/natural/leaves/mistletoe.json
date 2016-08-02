@@ -1,0 +1,10 @@
+{
+  "name": "mistletoe",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "mistletoe"
+  }
+}

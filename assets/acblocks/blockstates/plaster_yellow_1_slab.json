@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:plaster_yellow_1_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:plaster_yellow_1_upper_slab" }
+    }
+}

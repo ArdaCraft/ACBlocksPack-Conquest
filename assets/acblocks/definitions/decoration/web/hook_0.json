@@ -1,0 +1,10 @@
+{
+  "name": "hook_0",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hook_0"
+  }
+}

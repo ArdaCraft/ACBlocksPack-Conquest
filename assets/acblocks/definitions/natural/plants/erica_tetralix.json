@@ -1,0 +1,10 @@
+{
+  "name": "erica_tetralix",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "erica_tetralix"
+  }
+}

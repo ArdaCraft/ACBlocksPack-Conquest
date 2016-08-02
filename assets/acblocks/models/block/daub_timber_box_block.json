@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/daubtimber_box",
+        "top": "acblocks:blocks/daubtimber_box",
+        "side": "acblocks:blocks/daubtimber_box"
+    }
+}

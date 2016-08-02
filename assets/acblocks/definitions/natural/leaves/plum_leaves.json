@@ -1,0 +1,10 @@
+{
+  "name": "plum_leaves",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "plum_leaves"
+  }
+}

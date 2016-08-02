@@ -1,0 +1,10 @@
+{
+  "name": "seagull",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "seagull"
+  }
+}

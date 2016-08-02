@@ -1,0 +1,10 @@
+{
+  "name": "carrots_hanging",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "carrots_web"
+  }
+}

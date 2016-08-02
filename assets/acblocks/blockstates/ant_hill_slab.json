@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:ant_hill_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:ant_hill_upper_slab" }
+    }
+}

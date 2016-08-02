@@ -1,0 +1,11 @@
+{
+  "name": "mudstone",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "nat_mudstone"
+  }
+}

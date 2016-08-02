@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/leaves_aspen_brown",
+        "top": "acblocks:blocks/leaves_aspen_brown",
+        "side": "acblocks:blocks/leaves_aspen_brown"
+    }
+}

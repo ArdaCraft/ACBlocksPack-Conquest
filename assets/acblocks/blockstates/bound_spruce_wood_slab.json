@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:bound_spruce_wood_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:bound_spruce_wood_upper_slab" }
+    }
+}

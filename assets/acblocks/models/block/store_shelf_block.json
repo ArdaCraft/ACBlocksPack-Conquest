@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/store_shelf",
+        "top": "acblocks:blocks/store_shelf",
+        "side": "acblocks:blocks/store_shelf"
+    }
+}

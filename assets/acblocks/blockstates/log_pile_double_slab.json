@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:log_pile_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:log_pile_double_slab" }
+  }
+}

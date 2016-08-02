@@ -1,0 +1,10 @@
+{
+  "name": "berry_red",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "berry_red"
+  }
+}

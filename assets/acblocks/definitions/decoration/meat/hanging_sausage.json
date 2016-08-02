@@ -1,0 +1,10 @@
+{
+  "name": "hanging_sausage",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hanging_sausage"
+  }
+}

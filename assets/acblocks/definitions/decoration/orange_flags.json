@@ -1,0 +1,12 @@
+{
+  "name": "orange_flags",
+  "base": "DIRT",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "orange_flags",
+    "top": "invisible",
+    "bottom": "invisible"
+  }
+}

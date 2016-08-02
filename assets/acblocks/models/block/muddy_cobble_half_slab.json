@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/muddy_cobble",
+        "top": "acblocks:blocks/muddy_cobble",
+        "side": "acblocks:blocks/muddy_cobble"
+    }
+}

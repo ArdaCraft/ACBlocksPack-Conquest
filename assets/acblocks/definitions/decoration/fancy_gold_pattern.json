@@ -1,0 +1,11 @@
+{
+  "name": "fancy_gold_pattern",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "fancy_gold_pattern"
+  }
+}

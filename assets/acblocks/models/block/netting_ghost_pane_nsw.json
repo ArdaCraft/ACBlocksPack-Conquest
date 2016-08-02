@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_nsw",
+    "textures": {
+        "edge": "acblocks:blocks/netting_ghost_pane",
+        "pane": "acblocks:blocks/netting_ghost_pane"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "papyrus",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "papyrus_web"
+  }
+}

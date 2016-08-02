@@ -1,0 +1,10 @@
+{
+  "name": "axe_plate",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "axe_plate"
+  }
+}

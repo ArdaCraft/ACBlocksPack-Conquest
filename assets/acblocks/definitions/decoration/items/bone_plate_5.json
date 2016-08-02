@@ -1,0 +1,10 @@
+{
+  "name": "bone_plate_5",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "bone_plate_5"
+  }
+}

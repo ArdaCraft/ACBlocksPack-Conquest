@@ -1,0 +1,11 @@
+{
+  "name": "elven_decorative_pillar",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "elven_decorative_pillar"
+  }
+}

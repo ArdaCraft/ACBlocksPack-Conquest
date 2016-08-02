@@ -1,0 +1,11 @@
+{
+  "name": "thin_ice",
+  "base": "GLASS",
+  "types": [
+    "ICE",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "thin_ice"
+  }
+}

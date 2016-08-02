@@ -1,0 +1,10 @@
+{
+  "name": "hanging_boar",
+  "base": "STONE",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "hanging_boar"
+  }
+}

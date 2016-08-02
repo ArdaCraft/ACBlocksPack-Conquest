@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:cut_limestone_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:cut_limestone_upper_slab" }
+    }
+}

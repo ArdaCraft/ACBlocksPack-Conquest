@@ -1,0 +1,11 @@
+{
+  "name": "red_obsidian_tiles",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "red_obsidian_tiles"
+  }
+}

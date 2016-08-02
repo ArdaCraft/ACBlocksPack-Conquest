@@ -1,0 +1,10 @@
+{
+  "name": "hanging_bag_0",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hanging_bag_0"
+  }
+}

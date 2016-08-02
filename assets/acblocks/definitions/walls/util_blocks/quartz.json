@@ -1,0 +1,16 @@
+{
+  "name": "quartz",
+  "base": "STONE",
+  "types": [
+    "CARPET",
+    "ANVIL",
+    "FENCE_GATE",
+    "DOOR",
+    "FENCE",
+    "WALL",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "quartz"
+  }
+}

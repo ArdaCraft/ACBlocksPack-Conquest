@@ -1,0 +1,11 @@
+{
+  "name": "rusted_iron",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "rusted_iron"
+  }
+}

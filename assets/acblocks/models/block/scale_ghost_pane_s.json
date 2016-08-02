@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_s",
+    "textures": {
+        "edge": "acblocks:blocks/scale_pane",
+        "pane": "acblocks:blocks/scale_pane"
+    }
+}

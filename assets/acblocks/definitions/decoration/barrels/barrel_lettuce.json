@@ -1,0 +1,12 @@
+{
+  "name": "barrel_lettuce",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_lettuce",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

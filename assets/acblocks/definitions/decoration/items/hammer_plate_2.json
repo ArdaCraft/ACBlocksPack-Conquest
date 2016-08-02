@@ -1,0 +1,10 @@
+{
+  "name": "hammer_plate_2",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "hammer_2_plate"
+  }
+}

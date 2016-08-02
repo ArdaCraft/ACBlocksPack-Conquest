@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/old_pillar_top",
+        "top": "acblocks:blocks/old_pillar_top",
+        "side": "acblocks:blocks/old_pillar_side"
+    }
+}

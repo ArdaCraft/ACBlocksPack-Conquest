@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "acblocks:blocks/log_rope_end",
+        "side": "acblocks:blocks/log_rope_side"
+    }
+}

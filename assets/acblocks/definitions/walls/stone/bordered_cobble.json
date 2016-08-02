@@ -1,0 +1,11 @@
+{
+  "name": "bordered_cobble",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "bordered_cobble"
+  }
+}

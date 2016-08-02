@@ -1,0 +1,12 @@
+{
+  "name": "barrel_pipeweed",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_pipeweed",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rowan_leaves",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "rowan_leaves"
+  }
+}

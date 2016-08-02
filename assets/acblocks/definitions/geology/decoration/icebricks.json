@@ -1,0 +1,12 @@
+{
+  "name": "ice_bricks",
+  "base": "GLASS",
+  "types": [
+    "ICE",
+    "GLASS_STAINED",
+    "PANE_STAINED"
+  ],
+  "textures": {
+    "normal": "icebricks"
+  }
+}

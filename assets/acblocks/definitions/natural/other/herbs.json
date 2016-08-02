@@ -1,0 +1,10 @@
+{
+  "name": "herbs",
+  "base": "GRASS",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "herbs"
+  }
+}

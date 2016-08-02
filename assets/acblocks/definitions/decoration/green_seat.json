@@ -1,0 +1,13 @@
+{
+  "name": "green_seat",
+  "base": "WOOD",
+  "types": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ],
+  "textures": {
+    "normal": "planks_oak",
+    "top": "green_seat_top",
+    "sides": "green_seat_side"
+  }
+}

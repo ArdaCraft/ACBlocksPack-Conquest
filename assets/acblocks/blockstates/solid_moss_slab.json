@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:solid_moss_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:solid_moss_upper_slab" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:cow_pie_plate" },
+        "powered=true": { "model": "acblocks:cow_pie_plate" }
+    }
+}

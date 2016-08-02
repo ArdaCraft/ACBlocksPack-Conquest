@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:andesite_smooth_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:andesite_smooth_upper_slab" }
+    }
+}

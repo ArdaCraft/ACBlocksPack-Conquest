@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:mossy_brick_block" }
+  }
+}

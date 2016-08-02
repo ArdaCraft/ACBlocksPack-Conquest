@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:thin_ice_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:thin_ice_upper_slab" }
+    }
+}

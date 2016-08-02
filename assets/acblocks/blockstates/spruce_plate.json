@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:spruce_plate" },
+        "powered=true": { "model": "acblocks:spruce_plate" }
+    }
+}

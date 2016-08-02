@@ -1,0 +1,11 @@
+{
+  "name": "mining_debris",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "mining_debris"
+  }
+}

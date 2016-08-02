@@ -1,0 +1,12 @@
+{
+  "name": "bottle_cabinet",
+  "base": "WOOD",
+  "types": [
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "cabinet_side",
+    "top": "cabinet_top",
+    "bottom": "cabinet_bottles"
+  }
+}

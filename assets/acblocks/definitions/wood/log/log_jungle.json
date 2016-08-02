@@ -1,0 +1,12 @@
+{
+  "name": "log_jungle",
+  "base": "WOOD",
+  "types": [
+    "LOG"
+  ],
+  "textures": {
+    "top": "log_jungle_end",
+    "bottom": "log_jungle_end",
+    "sides": "log_jungle_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "barrel_apples",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_apples",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

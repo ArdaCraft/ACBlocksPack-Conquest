@@ -1,0 +1,10 @@
+{
+  "name": "empty_iron_plate",
+  "base": "STONE",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "plate_iron_empty"
+  }
+}

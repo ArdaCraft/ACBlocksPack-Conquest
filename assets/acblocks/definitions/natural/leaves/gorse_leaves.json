@@ -1,0 +1,10 @@
+{
+  "name": "gorse_leaves",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "gorse_leaves"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rope",
+  "base": "WOOD",
+  "types": [
+    "LOG"
+  ],
+  "textures": {
+    "top": "log_rope_end",
+    "bottom": "log_rope_end",
+    "sides": "log_rope_side"
+  }
+}

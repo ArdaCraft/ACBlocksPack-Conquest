@@ -1,0 +1,10 @@
+{
+  "name": "axel_wheel",
+  "base": "WOOD",
+  "types": [
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "axel_wheel"
+  }
+}

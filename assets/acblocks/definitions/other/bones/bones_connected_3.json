@@ -1,0 +1,11 @@
+{
+  "name": "bones_connected3",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "bones_connected_3"
+  }
+}

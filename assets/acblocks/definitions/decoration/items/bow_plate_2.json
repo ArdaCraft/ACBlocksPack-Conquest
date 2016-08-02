@@ -1,0 +1,10 @@
+{
+  "name": "bow_plate_2",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "bow_2_plate"
+  }
+}

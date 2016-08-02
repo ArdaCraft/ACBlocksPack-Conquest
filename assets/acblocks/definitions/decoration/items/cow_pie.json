@@ -1,0 +1,10 @@
+{
+  "name": "cow_pie",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "cow_patty_plate"
+  }
+}

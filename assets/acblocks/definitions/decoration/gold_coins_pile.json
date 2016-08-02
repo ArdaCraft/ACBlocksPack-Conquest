@@ -1,0 +1,11 @@
+{
+  "name": "gold_coins_pile",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "goldcoins_pile"
+  }
+}

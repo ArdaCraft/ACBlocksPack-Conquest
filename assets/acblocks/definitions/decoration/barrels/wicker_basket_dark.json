@@ -1,0 +1,12 @@
+{
+  "name": "wicker_basket_dark",
+  "base": "WOOD",
+  "types": [
+    "CAULDRON"
+  ],
+  "textures": {
+    "top": "wicker_dark_top",
+    "bottom": "wicker_dark_bottom",
+    "sides": "wicker_dark_side"
+  }
+}

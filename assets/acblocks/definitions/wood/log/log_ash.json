@@ -1,0 +1,12 @@
+{
+  "name": "log_ash",
+  "base": "WOOD",
+  "types": [
+    "LOG"
+  ],
+  "textures": {
+    "top": "ash",
+    "bottom": "ash",
+    "sides": "ash"
+  }
+}

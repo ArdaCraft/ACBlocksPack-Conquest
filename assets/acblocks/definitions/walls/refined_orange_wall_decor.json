@@ -1,0 +1,11 @@
+{
+  "name": "refined_orange_wall_decor",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "refined_orange_wall_decor"
+  }
+}

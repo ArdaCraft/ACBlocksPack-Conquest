@@ -1,0 +1,10 @@
+{
+  "name": "peas",
+  "base": "GRASS",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "pea_crops"
+  }
+}

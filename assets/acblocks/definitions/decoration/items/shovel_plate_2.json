@@ -1,0 +1,10 @@
+{
+  "name": "shovel_plate_2",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "shovel_2_plate"
+  }
+}

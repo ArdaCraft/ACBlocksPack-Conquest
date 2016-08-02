@@ -1,0 +1,7 @@
+{
+    "parent": "block/carpet",
+    "textures": {
+        "particle": "acblocks:blocks/slate_cobble_mortar_top",
+        "wool": "acblocks:blocks/slate_cobble_mortar_top"
+    }
+}

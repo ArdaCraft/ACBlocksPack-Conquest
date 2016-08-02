@@ -1,0 +1,11 @@
+{
+  "name": "dried_river_bed",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "dried_river_bed"
+  }
+}

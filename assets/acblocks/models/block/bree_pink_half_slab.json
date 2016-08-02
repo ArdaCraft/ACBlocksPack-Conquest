@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/bree_pink",
+        "top": "acblocks:blocks/bree_pink",
+        "side": "acblocks:blocks/bree_pink"
+    }
+}

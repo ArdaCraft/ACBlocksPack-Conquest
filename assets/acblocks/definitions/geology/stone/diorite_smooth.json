@@ -1,0 +1,12 @@
+{
+  "name": "diorite_smooth",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLIM_SLAB",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "stone_diorite_smooth"
+  }
+}

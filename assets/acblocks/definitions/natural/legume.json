@@ -1,0 +1,10 @@
+{
+  "name": "legume",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "legume_plant"
+  }
+}

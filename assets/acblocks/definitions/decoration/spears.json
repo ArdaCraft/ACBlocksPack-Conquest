@@ -1,0 +1,10 @@
+{
+  "name": "spears",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "spear_web"
+  }
+}

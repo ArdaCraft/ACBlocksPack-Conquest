@@ -1,0 +1,10 @@
+{
+  "name": "sandstone_rock",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "sandstone_rock"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "slate_blue",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "slate_blue"
+  }
+}

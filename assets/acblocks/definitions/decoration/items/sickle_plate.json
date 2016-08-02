@@ -1,0 +1,10 @@
+{
+  "name": "sickle_plate",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "sickle_plate"
+  }
+}

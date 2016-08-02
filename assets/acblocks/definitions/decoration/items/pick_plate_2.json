@@ -1,0 +1,10 @@
+{
+  "name": "pick_plate_2",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "pick_2_plate"
+  }
+}

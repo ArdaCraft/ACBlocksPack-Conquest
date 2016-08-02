@@ -1,0 +1,6 @@
+{
+    "parent": "block/trapdoor_top",
+    "textures": {
+        "texture": "acblocks:blocks/patterned_stone_floor"
+    }
+}

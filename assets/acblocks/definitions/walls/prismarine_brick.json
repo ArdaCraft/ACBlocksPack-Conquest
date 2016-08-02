@@ -1,0 +1,12 @@
+{
+  "name": "prismarine_brick",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "prismarine_brick"
+  }
+}

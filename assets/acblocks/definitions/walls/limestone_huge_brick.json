@@ -1,0 +1,15 @@
+{
+  "name": "limestone_huge_bricks",
+  "base": "STONE",
+  "types": [
+    "STAIRS",
+    "WALL",
+    "CARPET",
+    "BLOCK",
+    "SLAB",
+    "FENCE"
+  ],
+  "textures": {
+    "normal": "limestone_huge_brick"
+  }
+}

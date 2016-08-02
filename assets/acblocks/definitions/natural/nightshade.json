@@ -1,0 +1,10 @@
+{
+  "name": "nightshade",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "nightshade"
+  }
+}

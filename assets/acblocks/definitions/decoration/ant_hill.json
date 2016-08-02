@@ -1,0 +1,11 @@
+{
+  "name": "ant_hill",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "ant_hill"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dried_fodder",
+  "base": "GRASS",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "dried_fodder"
+  }
+}

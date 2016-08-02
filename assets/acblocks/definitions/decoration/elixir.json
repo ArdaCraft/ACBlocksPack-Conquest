@@ -1,0 +1,10 @@
+{
+  "name": "elixir",
+  "base": "GLASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "elixir_web"
+  }
+}

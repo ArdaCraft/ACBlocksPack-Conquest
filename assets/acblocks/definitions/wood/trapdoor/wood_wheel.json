@@ -1,0 +1,10 @@
+{
+  "name": "wood_wheel",
+  "base": "WOOD",
+  "types": [
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "wood_wheel"
+  }
+}

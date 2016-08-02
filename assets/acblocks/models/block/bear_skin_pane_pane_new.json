@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_new",
+    "textures": {
+        "edge": "acblocks:blocks/bear_skin_pane",
+        "pane": "acblocks:blocks/bear_skin_pane"
+    }
+}

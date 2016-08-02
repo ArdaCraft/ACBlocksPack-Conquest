@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:grimy_paving_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:grimy_paving_upper_slab" }
+    }
+}

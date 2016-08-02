@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/brick_timber_5",
+        "top": "acblocks:blocks/brick_timber_5",
+        "side": "acblocks:blocks/brick_timber_5"
+    }
+}

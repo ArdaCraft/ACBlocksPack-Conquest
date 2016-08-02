@@ -1,0 +1,13 @@
+{
+  "name": "white_gravel",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "top": "white_gravel",
+    "bottom": "white_gravel",
+    "sides": "white_gravel"
+  }
+}

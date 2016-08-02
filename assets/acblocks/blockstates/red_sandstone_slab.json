@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:red_sandstone_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:red_sandstone_upper_slab" }
+    }
+}

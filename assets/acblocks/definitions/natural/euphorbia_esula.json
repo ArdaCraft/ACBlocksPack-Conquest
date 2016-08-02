@@ -1,0 +1,10 @@
+{
+  "name": "euphorbia_esula",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "euphorbia_esula"
+  }
+}

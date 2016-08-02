@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_sw",
+    "textures": {
+        "edge": "acblocks:blocks/magenta_curtain",
+        "pane": "acblocks:blocks/magenta_curtain"
+    }
+}

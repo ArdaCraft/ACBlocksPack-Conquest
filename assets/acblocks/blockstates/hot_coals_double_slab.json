@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:hot_coals_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:hot_coals_double_slab" }
+  }
+}

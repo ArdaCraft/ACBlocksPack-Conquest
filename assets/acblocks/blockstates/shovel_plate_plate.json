@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:shovel_plate_plate" },
+        "powered=true": { "model": "acblocks:shovel_plate_plate" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "stone_slab",
+  "base": "STONE",
+  "types": [
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "stone_slab_top"
+  }
+}

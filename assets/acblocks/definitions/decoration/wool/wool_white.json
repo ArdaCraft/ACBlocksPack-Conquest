@@ -1,0 +1,10 @@
+{
+  "name": "wool_white",
+  "base": "WOOL",
+  "types": [
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "wool_white"
+  }
+}

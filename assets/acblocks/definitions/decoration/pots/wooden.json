@@ -1,0 +1,10 @@
+{
+  "name": "wooden",
+  "base": "STONE",
+  "types": [
+    "POT"
+  ],
+  "textures": {
+    "normal": "pot_wooden"
+  }
+}

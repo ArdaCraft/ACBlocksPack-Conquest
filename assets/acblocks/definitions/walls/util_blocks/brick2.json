@@ -1,0 +1,14 @@
+{
+  "name": "brick_2",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "brick_2"
+  }
+}

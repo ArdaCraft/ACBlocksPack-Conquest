@@ -1,0 +1,8 @@
+{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/planks_nondescript",
+        "top": "acblocks:blocks/planks_nondescript",
+        "side": "acblocks:blocks/planks_nondescript"
+    }
+}

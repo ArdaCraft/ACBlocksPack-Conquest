@@ -1,0 +1,11 @@
+{
+  "name": "dark_wood",
+  "base": "WOOD",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "dark_wood"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_nse",
+    "textures": {
+        "wall": "acblocks:blocks/slate_cobble_mortar"
+    }
+}

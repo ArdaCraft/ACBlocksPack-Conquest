@@ -1,0 +1,10 @@
+{
+  "name": "tussock_grass",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "tussock_grass_web"
+  }
+}

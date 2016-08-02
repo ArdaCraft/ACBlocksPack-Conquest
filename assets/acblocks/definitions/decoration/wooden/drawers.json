@@ -1,0 +1,12 @@
+{
+  "name": "drawers",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "drawers_top",
+    "bottom": "drawers_top",
+    "sides": "drawers_side"
+  }
+}

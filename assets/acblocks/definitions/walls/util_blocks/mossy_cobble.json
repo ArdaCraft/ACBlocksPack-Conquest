@@ -1,0 +1,16 @@
+{
+  "name": "mossy_cobble",
+  "base": "STONE",
+  "types": [
+    "CARPET",
+    "ANVIL",
+    "FENCE_GATE",
+    "DOOR",
+    "FENCE",
+    "WALL",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "mossy_cobble"
+  }
+}

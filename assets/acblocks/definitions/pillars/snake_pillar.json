@@ -1,0 +1,11 @@
+{
+  "name": "snake_pillar",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "snake_pillar"
+  }
+}

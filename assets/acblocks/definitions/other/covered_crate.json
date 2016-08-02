@@ -1,0 +1,12 @@
+{
+  "name": "covered_crate",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "covered_crate_top",
+    "bottom": "covered_crate_top",
+    "sides": "covered_crate_side"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bound_wood_trapdoor",
+  "base": "WOOD",
+  "types": [
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "bound_wood_trapdoor"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ash_planks",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "ash_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "hanging_cloth",
+  "base": "STONE",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "hanging_cloth",
+    "top": "invisible",
+    "bottom": "invisible"
+  }
+}

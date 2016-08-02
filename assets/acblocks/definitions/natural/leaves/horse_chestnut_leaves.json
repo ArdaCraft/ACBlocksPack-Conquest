@@ -1,0 +1,10 @@
+{
+  "name": "horse_chestnut_leaves",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "horse_chestnut_leaves"
+  }
+}

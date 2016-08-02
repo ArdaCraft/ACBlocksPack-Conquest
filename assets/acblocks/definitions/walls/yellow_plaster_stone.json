@@ -1,0 +1,11 @@
+{
+  "name": "yellow_plaster_stone",
+  "base": "WOOD",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "yellow_plaster_stone"
+  }
+}

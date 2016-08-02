@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:silver_coins_plate" },
+        "powered=true": { "model": "acblocks:silver_coins_plate" }
+    }
+}

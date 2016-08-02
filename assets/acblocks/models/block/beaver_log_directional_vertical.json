@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "acblocks:blocks/log_beaver_top",
+        "side": "acblocks:blocks/log_beaver_side"
+    }
+}

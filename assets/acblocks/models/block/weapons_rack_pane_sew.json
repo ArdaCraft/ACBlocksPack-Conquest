@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_sew",
+    "textures": {
+        "edge": "acblocks:blocks/weapons_rack_top",
+        "pane": "acblocks:blocks/weapons_rack"
+    }
+}

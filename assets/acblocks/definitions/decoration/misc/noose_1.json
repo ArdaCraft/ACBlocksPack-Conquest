@@ -1,0 +1,10 @@
+{
+  "name": "noose_1",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "noose_1"
+  }
+}

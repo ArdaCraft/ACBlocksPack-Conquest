@@ -1,0 +1,11 @@
+{
+  "name": "decorative_sandstone_pillar",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "decorative_sandstone_pillar"
+  }
+}

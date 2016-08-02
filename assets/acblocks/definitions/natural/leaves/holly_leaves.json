@@ -1,0 +1,10 @@
+{
+  "name": "holly_leaves",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "holly_leaves"
+  }
+}

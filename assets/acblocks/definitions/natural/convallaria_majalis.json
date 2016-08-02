@@ -1,0 +1,10 @@
+{
+  "name": "convallaria_majalis",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "convallaria_majalis"
+  }
+}

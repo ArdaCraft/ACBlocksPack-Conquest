@@ -1,0 +1,10 @@
+{
+  "name": "jug",
+  "base": "GLASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "jug_web"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "barrel_potatoes",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_potatoes",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

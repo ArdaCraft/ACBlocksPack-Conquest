@@ -1,0 +1,11 @@
+{
+  "name": "plaster_peach",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "plaster_peach"
+  }
+}

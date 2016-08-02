@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/huge_brick",
+        "top": "acblocks:blocks/huge_brick",
+        "side": "acblocks:blocks/huge_brick"
+    }
+}

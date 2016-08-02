@@ -1,0 +1,13 @@
+{
+  "name": "stool",
+  "base": "WOOD",
+  "types": [
+    "SHORT_CHAIR",
+    "CHAIR"
+  ],
+  "textures": {
+    "top": "stool_top",
+    "bottom": "invisible",
+    "sides": "stool_side"
+  }
+}

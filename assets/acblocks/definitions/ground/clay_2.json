@@ -1,0 +1,11 @@
+{
+  "name": "clay_2",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "clay_2"
+  }
+}

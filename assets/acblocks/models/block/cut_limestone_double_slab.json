@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/cut_limestone",
+        "top": "acblocks:blocks/cut_limestone",
+        "side": "acblocks:blocks/cut_limestone"
+    }
+}

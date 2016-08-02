@@ -1,0 +1,10 @@
+{
+  "name": "blue_butterfly",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "blue_butterfly"
+  }
+}

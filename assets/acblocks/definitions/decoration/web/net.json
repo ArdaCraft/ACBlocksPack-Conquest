@@ -1,0 +1,10 @@
+{
+  "name": "net",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "net"
+  }
+}

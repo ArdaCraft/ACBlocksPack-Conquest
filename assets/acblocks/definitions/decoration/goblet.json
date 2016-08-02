@@ -1,0 +1,10 @@
+{
+  "name": "goblet",
+  "base": "GLASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "goblet_web"
+  }
+}

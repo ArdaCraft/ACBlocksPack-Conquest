@@ -1,0 +1,12 @@
+{
+  "name": "barrel_clay",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_clay",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

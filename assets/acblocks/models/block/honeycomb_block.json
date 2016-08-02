@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/honey_combe",
+        "top": "acblocks:blocks/honey_combe",
+        "side": "acblocks:blocks/honey_combe"
+    }
+}

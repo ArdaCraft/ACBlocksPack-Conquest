@@ -1,0 +1,10 @@
+{
+  "name": "hawk",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hawk"
+  }
+}

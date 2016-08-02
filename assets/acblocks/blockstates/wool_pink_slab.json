@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:wool_pink_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:wool_pink_upper_slab" }
+    }
+}

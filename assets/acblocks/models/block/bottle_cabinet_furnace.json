@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "acblocks:blocks/cabinet_top",
+        "front": "acblocks:blocks/cabinet_bottles",
+        "side": "acblocks:blocks/cabinet_side"
+    }
+}

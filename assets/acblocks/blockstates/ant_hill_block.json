@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:ant_hill_block" }
+  }
+}

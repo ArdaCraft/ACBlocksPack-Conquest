@@ -1,0 +1,10 @@
+{
+  "name": "broken_bottle",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "broken_bottle_web"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "birds_nest",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "birds_nest"
+  }
+}

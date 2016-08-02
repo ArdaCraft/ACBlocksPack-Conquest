@@ -1,0 +1,12 @@
+{
+  "name": "wicker_basket_light",
+  "base": "WOOD",
+  "types": [
+    "CAULDRON"
+  ],
+  "textures": {
+    "top": "wicker_light_top",
+    "bottom": "wicker_light_bottom",
+    "sides": "wicker_light_side"
+  }
+}

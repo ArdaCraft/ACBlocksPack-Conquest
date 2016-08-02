@@ -1,0 +1,11 @@
+{
+  "name": "iron_fence_rust",
+  "base": "WOOD",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "ironfence_rust",
+    "top": "wicker_fence_top"
+  }
+}

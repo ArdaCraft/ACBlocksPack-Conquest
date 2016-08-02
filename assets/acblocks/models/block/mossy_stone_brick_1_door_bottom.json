@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "acblocks:blocks/stonebrick_1_mossy",
+        "top": "acblocks:blocks/stonebrick_1_mossy"
+    }
+}

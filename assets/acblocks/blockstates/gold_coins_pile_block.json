@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:gold_coins_pile_block" }
+  }
+}

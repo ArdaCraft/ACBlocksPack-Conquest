@@ -1,0 +1,12 @@
+{
+  "name": "birch_plank",
+  "base": "WOOD",
+  "types": [
+    "WALL",
+    "FENCE_GATE",
+    "FENCE"
+  ],
+  "textures": {
+    "normal": "birch_planks"
+  }
+}

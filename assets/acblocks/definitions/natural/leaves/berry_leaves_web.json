@@ -1,0 +1,10 @@
+{
+  "name": "berry_leaves",
+  "base": "SPONGE",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "leaves_berry"
+  }
+}

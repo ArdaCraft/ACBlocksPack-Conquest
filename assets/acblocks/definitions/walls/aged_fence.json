@@ -1,0 +1,13 @@
+{
+  "name": "aged_fence",
+  "base": "WOOD",
+  "types": [
+    "FENCE_GATE",
+    "FENCE"
+  ],
+  "textures": {
+    "normal": "aged_fence",
+    "top": "aged_fence_top",
+    "bottom": "aged_fence_bottom"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/hardened_clay_purple",
+        "top": "acblocks:blocks/hardened_clay_purple",
+        "side": "acblocks:blocks/hardened_clay_purple"
+    }
+}

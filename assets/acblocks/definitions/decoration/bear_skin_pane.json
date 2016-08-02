@@ -1,0 +1,10 @@
+{
+  "name": "bear_skin_pane",
+  "base": "DIRT",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "bear_skin_pane"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dirt_leaves",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "dirt_leaves"
+  }
+}

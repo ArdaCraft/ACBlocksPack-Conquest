@@ -1,0 +1,11 @@
+{
+  "name": "dirt_pine",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "dirt_pine"
+  }
+}

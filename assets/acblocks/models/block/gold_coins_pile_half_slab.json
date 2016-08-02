@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/goldcoins_pile",
+        "top": "acblocks:blocks/goldcoins_pile",
+        "side": "acblocks:blocks/goldcoins_pile"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/planks_oak",
+        "top": "acblocks:blocks/wicker_dark_bottom",
+        "side": "acblocks:blocks/chair_wood_side"
+    }
+}

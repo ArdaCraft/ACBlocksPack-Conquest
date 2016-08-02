@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:dark_red_mortar_bricks_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:dark_red_mortar_bricks_upper_slab" }
+    }
+}

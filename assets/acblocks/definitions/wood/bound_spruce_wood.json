@@ -1,0 +1,12 @@
+{
+  "name": "bound_spruce_wood",
+  "base": "WOOD",
+  "types": [
+    "SLAB",
+    "BLOCK",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "bound_spruce_wood"
+  }
+}

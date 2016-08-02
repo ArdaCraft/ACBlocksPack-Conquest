@@ -1,0 +1,11 @@
+{
+  "name": "wicker_fence",
+  "base": "WOOD",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "wicker_fence",
+    "top": "wicker_fence_top"
+  }
+}

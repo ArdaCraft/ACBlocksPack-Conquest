@@ -1,0 +1,11 @@
+{
+  "name": "thatch_gray",
+  "base": "SPONGE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "thatch_gray"
+  }
+}

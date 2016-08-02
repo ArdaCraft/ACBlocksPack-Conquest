@@ -1,0 +1,17 @@
+{
+  "name": "slate_cobble_mortar",
+  "base": "STONE",
+  "types": [
+    "STAIRS",
+    "WALL",
+    "CARPET",
+    "BLOCK",
+    "SLAB",
+    "FENCE"
+  ],
+  "textures": {
+    "top": "slate_cobble_mortar_top",
+    "bottom": "slate_cobble_mortar_top",
+    "sides": "slate_cobble_mortar"
+  }
+}

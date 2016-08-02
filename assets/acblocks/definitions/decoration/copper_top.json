@@ -1,0 +1,11 @@
+{
+  "name": "copper_top",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "copper_top"
+  }
+}

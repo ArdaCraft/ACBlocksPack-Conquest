@@ -1,0 +1,10 @@
+{
+  "name": "bookshelves_ghost_pane",
+  "base": "WOOD",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "bookshelves_ghost_pane"
+  }
+}

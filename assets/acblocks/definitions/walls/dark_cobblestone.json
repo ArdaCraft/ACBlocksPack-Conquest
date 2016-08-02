@@ -1,0 +1,12 @@
+{
+  "name": "dark_cobblestone",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "dark_cobblestone"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "arrow_plate",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "arrow_plate"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/plaster_yellow_4",
+        "top": "acblocks:blocks/plaster_yellow_4",
+        "side": "acblocks:blocks/plaster_yellow_4"
+    }
+}

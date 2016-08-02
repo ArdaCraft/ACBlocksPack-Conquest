@@ -1,0 +1,12 @@
+{
+  "name": "dark_red_mortar_bricks",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "dark_red_mortar_bricks"
+  }
+}

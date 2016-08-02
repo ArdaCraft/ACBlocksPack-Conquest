@@ -1,0 +1,10 @@
+{
+  "name": "gravel",
+  "base": "GRAVEL",
+  "types": [
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "gravel"
+  }
+}

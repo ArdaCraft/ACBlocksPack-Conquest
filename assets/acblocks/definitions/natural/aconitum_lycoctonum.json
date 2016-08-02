@@ -1,0 +1,10 @@
+{
+  "name": "aconitum_lycoctonum",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "aconitum_lycoctonum"
+  }
+}

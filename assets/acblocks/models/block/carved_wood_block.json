@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/carved_wood",
+        "top": "acblocks:blocks/carved_wood",
+        "side": "acblocks:blocks/carved_wood"
+    }
+}

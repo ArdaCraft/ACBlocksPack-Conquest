@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:daub_timber_box_yellow_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:daub_timber_box_yellow_upper_slab" }
+    }
+}

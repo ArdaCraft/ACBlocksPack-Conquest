@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_nw",
+    "textures": {
+        "edge": "acblocks:blocks/wicker_fence_top",
+        "pane": "acblocks:blocks/ironfence_rust"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "empty_barrel",
+  "base": "WOOD",
+  "types": [
+    "CAULDRON"
+  ],
+  "textures": {
+    "top": "barrel_empty",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

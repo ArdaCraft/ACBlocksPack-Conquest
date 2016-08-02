@@ -1,0 +1,10 @@
+{
+  "name": "book_plate",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "book_plate"
+  }
+}

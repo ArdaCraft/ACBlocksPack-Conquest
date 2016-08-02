@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "acblocks:cobblestone_ladder_ladder" },
+        "facing=east":  { "model": "acblocks:cobblestone_ladder_ladder", "y": 90 },
+        "facing=south": { "model": "acblocks:cobblestone_ladder_ladder", "y": 180 },
+        "facing=west":  { "model": "acblocks:cobblestone_ladder_ladder", "y": 270 }
+    }
+}

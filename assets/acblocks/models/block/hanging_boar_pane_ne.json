@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_ne",
+    "textures": {
+        "edge": "acblocks:blocks/hanging_boar",
+        "pane": "acblocks:blocks/hanging_boar"
+    }
+}

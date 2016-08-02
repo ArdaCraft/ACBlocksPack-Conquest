@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/slate_cobblestone",
+        "top": "acblocks:blocks/slate_cobblestone",
+        "side": "acblocks:blocks/slate_cobblestone"
+    }
+}

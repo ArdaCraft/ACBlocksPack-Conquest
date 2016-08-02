@@ -1,0 +1,10 @@
+{
+  "name": "stalactite",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "stalactite"
+  }
+}

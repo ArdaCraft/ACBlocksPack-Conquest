@@ -1,0 +1,11 @@
+{
+  "name": "mithlond_wall_grey_fancy",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "mithlond_wall_grey_fancy"
+  }
+}

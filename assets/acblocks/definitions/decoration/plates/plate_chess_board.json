@@ -1,0 +1,10 @@
+{
+  "name": "chess_board",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "chess_board"
+  }
+}

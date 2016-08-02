@@ -1,0 +1,11 @@
+{
+  "name": "stone_path",
+  "base": "GRAVEL",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "stone_path"
+  }
+}

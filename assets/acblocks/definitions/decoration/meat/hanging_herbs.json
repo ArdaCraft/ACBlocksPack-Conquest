@@ -1,0 +1,10 @@
+{
+  "name": "hanging_herbs",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hanging_herbs"
+  }
+}

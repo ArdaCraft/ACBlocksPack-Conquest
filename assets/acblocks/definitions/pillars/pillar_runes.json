@@ -1,0 +1,11 @@
+{
+  "name": "pillar_runes",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "pillar_runes"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/venetian_orange_wall",
+        "top": "acblocks:blocks/venetian_orange_wall",
+        "side": "acblocks:blocks/venetian_orange_wall"
+    }
+}

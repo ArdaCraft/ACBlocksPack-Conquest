@@ -1,0 +1,10 @@
+{
+  "name": "shutter_white_pane",
+  "base": "STONE",
+  "types": [
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "shutter_white_pane"
+  }
+}

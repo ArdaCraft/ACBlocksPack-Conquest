@@ -1,0 +1,10 @@
+{
+  "name": "white_shutter_fence_gate",
+  "base": "WOOD",
+  "types": [
+    "FENCE_GATE"
+  ],
+  "textures": {
+    "normal": "white_shutter_fence_gate"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reeds",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "reeds"
+  }
+}

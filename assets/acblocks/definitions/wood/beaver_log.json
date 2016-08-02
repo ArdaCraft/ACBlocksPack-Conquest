@@ -1,0 +1,12 @@
+{
+  "name": "beaver_log",
+  "base": "WOOD",
+  "types": [
+    "LOG"
+  ],
+  "textures": {
+    "top": "log_beaver_top",
+    "bottom": "log_beaver_top",
+    "sides": "log_beaver_side"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mossy_gravelly_dirt",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "mossy_gravelly_dirt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "barrel_wine",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "wine_barrel_top",
+    "bottom": "barrel_bottom",
+    "sides": "wine_barrel_side"
+  }
+}

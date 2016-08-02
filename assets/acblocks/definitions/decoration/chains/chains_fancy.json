@@ -1,0 +1,10 @@
+{
+  "name": "chains_fancy",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "chains_fancy"
+  }
+}

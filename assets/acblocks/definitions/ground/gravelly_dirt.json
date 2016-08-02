@@ -1,0 +1,11 @@
+{
+  "name": "gravelly_dirt",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "gravelly_dirt"
+  }
+}

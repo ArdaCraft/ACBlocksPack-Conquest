@@ -1,0 +1,11 @@
+{
+  "name": "gray_timber_1",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "3"
+  }
+}

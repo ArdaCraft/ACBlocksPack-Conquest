@@ -1,0 +1,11 @@
+{
+  "name": "coal_bin",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "coal_bin_side",
+    "top": "coal_bin_top"
+  }
+}

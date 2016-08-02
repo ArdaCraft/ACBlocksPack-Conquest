@@ -1,0 +1,12 @@
+{
+  "name": "barrel_fish",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "top": "barrel_fish",
+    "bottom": "barrel_bottom",
+    "sides": "barrel_side"
+  }
+}

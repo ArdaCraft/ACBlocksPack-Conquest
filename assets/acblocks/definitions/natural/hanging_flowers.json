@@ -1,0 +1,10 @@
+{
+  "name": "hanging_flowers",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hanging_flowers_web"
+  }
+}

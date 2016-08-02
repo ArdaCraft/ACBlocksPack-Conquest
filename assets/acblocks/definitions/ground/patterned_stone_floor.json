@@ -1,0 +1,13 @@
+{
+  "name": "patterend_stone_floor",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "CARPET",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "patterned_stone_floor"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mossy_brick",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "ANVIL",
+    "WALL",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "brick_mossy"
+  }
+}

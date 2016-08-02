@@ -1,0 +1,10 @@
+{
+  "name": "sword_plate",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "sword_plate"
+  }
+}

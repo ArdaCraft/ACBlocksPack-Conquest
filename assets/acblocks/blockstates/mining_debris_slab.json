@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:mining_debris_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:mining_debris_upper_slab" }
+    }
+}

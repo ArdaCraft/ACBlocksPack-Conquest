@@ -1,0 +1,13 @@
+{
+  "name": "grimy_paving",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "CARPET",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "grimy_paving"
+  }
+}

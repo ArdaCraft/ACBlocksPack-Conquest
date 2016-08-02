@@ -1,0 +1,11 @@
+{
+  "name": "tudor_2",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "tudor_2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bat",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "bat"
+  }
+}

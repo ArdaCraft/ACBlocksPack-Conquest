@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "acblocks:blocks/light_brick",
+        "top": "acblocks:blocks/light_brick",
+        "side": "acblocks:blocks/light_brick"
+    }
+}

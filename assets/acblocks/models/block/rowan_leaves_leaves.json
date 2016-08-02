@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/rowan_leaves",
+        "top": "acblocks:blocks/rowan_leaves",
+        "side": "acblocks:blocks/rowan_leaves"
+    }
+}

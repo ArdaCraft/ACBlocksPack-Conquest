@@ -1,0 +1,11 @@
+{
+  "name": "mossy_mortar_brick",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "mossy_mortar_brick"
+  }
+}

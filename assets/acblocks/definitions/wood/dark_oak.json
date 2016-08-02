@@ -1,0 +1,11 @@
+{
+  "name": "dark_oak_plank",
+  "base": "WOOD",
+  "types": [
+    "FENCE_GATE",
+    "FENCE"
+  ],
+  "textures": {
+    "normal": "fence_dark"
+  }
+}

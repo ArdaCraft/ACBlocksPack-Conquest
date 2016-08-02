@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:gravel_path_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:gravel_path_upper_slab" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/mining_debris",
+        "top": "acblocks:blocks/mining_debris",
+        "side": "acblocks:blocks/mining_debris"
+    }
+}

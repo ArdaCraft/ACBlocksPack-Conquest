@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:gray_timber_4_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:gray_timber_4_double_slab" }
+  }
+}

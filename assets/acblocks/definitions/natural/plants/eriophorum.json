@@ -1,0 +1,10 @@
+{
+  "name": "eriophorum",
+  "base": "GRASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "eriophorum"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "cobble_1",
+  "base": "STONE",
+  "types": [
+    "TRAP_DOOR",
+    "DOOR",
+    "STAIRS",
+    "PLATE",
+    "SLAB",
+    "WALL",
+    "FENCE",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "cobble_1"
+  }
+}

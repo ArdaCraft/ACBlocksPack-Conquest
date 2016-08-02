@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/dried_river_bed",
+        "top": "acblocks:blocks/dried_river_bed",
+        "side": "acblocks:blocks/dried_river_bed"
+    }
+}

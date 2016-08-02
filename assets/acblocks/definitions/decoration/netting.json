@@ -1,0 +1,10 @@
+{
+  "name": "netting",
+  "base": "WOOD",
+  "types": [
+    "GHOST_PANE"
+  ],
+  "textures": {
+    "normal": "netting_ghost_pane"
+  }
+}

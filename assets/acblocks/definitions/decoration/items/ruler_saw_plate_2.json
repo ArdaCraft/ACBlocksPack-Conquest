@@ -1,0 +1,10 @@
+{
+  "name": "ruler_saw_plate_2",
+  "base": "WOOD",
+  "types": [
+    "PLATE"
+  ],
+  "textures": {
+    "normal": "ruler_saw_plate_2"
+  }
+}
