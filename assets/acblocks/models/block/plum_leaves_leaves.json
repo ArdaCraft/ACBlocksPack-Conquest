@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/leaves",
     "textures": {
-        "bottom": "acblocks:blocks/plum_leaves",
-        "top": "acblocks:blocks/plum_leaves",
-        "side": "acblocks:blocks/plum_leaves"
+        "all": "acblocks:blocks/plum_leaves"
     }
 }

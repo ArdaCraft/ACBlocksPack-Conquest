@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/leaves",
     "textures": {
-        "bottom": "acblocks:blocks/gorse_leaves",
-        "top": "acblocks:blocks/gorse_leaves",
-        "side": "acblocks:blocks/gorse_leaves"
+        "all": "acblocks:blocks/gorse_leaves"
     }
 }

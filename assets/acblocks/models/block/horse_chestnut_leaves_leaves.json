@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/leaves",
     "textures": {
-        "bottom": "acblocks:blocks/horse_chestnut_leaves",
-        "top": "acblocks:blocks/horse_chestnut_leaves",
-        "side": "acblocks:blocks/horse_chestnut_leaves"
+        "all": "acblocks:blocks/horse_chestnut_leaves"
     }
 }

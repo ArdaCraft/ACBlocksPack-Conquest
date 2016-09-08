@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/leaves",
     "textures": {
-        "bottom": "acblocks:blocks/mistletoe",
-        "top": "acblocks:blocks/mistletoe",
-        "side": "acblocks:blocks/mistletoe"
+        "all": "acblocks:blocks/mistletoe"
     }
 }

@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/leaves",
     "textures": {
-        "bottom": "acblocks:blocks/brown_twiggy_leaves",
-        "top": "acblocks:blocks/brown_twiggy_leaves",
-        "side": "acblocks:blocks/brown_twiggy_leaves"
+        "all": "acblocks:blocks/brown_twiggy_leaves"
     }
 }

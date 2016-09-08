@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/leaves",
     "textures": {
-        "bottom": "acblocks:blocks/leaves_berry",
-        "top": "acblocks:blocks/leaves_berry",
-        "side": "acblocks:blocks/leaves_berry"
+        "all": "acblocks:blocks/leaves_berry"
     }
 }

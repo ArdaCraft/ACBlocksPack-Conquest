@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/leaves",
     "textures": {
-        "bottom": "acblocks:blocks/weeping_willow_leaves",
-        "top": "acblocks:blocks/weeping_willow_leaves",
-        "side": "acblocks:blocks/weeping_willow_leaves"
+        "all": "acblocks:blocks/weeping_willow_leaves"
     }
 }
